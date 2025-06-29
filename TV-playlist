@@ -2022,10 +2022,10 @@ http://143.44.136.110:6910/001/2/ch00000090990000001199/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001164/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ch-number="999" group-title="TV",Nickelodeon New Zealand
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=9b8fdb8a8f4d4c61b850a50053660000:b936e4d2294b2a5a3cc335bc8cd20ef3
-https://linear-n.stream.skyone.co.nz/nickelodeon.mpd 
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d780yzv2avs7v6.archive.fo/mClXD/8d1d1c4b364acb7bd1eb0bebe05a6f33d03774c1.webp" ch-number="393" group-title="TV",Zee Action
+http://103.86.135.164:9981/stream/channelid/214022172?ticket=699FFF5FB295BF8CA98CEE50340456FE8E935590&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ch-number="" group-title="TV",
 
