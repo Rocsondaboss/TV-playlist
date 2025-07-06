@@ -7,14 +7,14 @@
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/200px-TV5_%28Philippines%29_logo.svg.png" ch-number="005" group-title="TV",TV5 Philippines
+#EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/200px-TV5_%28Philippines%29_logo.svg.png" ch-number="005" group-title="TV",TV5 Philippines
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/220px-Kapamilya_Channel_Logo_2020.svg.png" ch-number="002" group-title="TV",Kapamilya Channel HD
+#EXTINF:-1 tvg-id="KAPAMILYA.CHANNEL.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/220px-Kapamilya_Channel_Logo_2020.svg.png" ch-number="002" group-title="TV",Kapamilya Channel HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com
@@ -26,10 +26,15 @@ http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" ch-number="016" group-title="TV",Cinemo!
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" ch-number="016" group-title="TV",Cinemo! Global
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f
 https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" ch-number="027" group-title="TV",Cinemo!
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha  
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00  
+http://143.44.136.110:6910/001/2/ch00000090990000001254/manifest.mpd?virtualDomain=001.live_hls.zte.com  
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1280px-Pinoy_Box_Office_logo.svg.png" ch-number="018" group-title="TV",PBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -53,7 +58,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" ch-number="075" group-title="TV",HBO Asia
+#EXTINF:-1 tvg-id="HBO.HD.ph" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" ch-number="075" group-title="TV",HBO Asia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -66,7 +71,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Rocsondaboss/Radio-channels/refs/heads/main/channel%20logos/hbo%20family.png" ch-number="076" group-title="TV",HBO Family Asia
+#EXTINF:-1 tvg-id="HBO.FAMILY.ph" tvg-logo="https://raw.githubusercontent.com/Rocsondaboss/Radio-channels/refs/heads/main/channel%20logos/hbo%20family.png" ch-number="076" group-title="TV",HBO Family Asia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -92,7 +97,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4QSa9rw.png" ch-number="078" group-title="TV",HBO Signature Asia
+#EXTINF:-1 tvg-id="HBO.SIGNATURE.HD.ph" tvg-logo="https://i.imgur.com/4QSa9rw.png" ch-number="078" group-title="TV",HBO Signature Asia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -106,7 +111,7 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Rocsondaboss/Radio-channels/refs/heads/main/channel%20logos/hbo%20hits.png" ch-number="079" group-title="TV",HBO Hits
+#EXTINF:-1 tvg-id="HBO.HITS.HD.ph" tvg-logo="https://raw.githubusercontent.com/Rocsondaboss/Radio-channels/refs/heads/main/channel%20logos/hbo%20hits.png" ch-number="079" group-title="TV",HBO Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -120,7 +125,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 
-#EXTINF:-1 tvg-id="051" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" ch-number="141" group-title="TV",Warner TV (Cignal feed)
+#EXTINF:-1 tvg-id=""WARNER.TV.ph" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" ch-number="141" group-title="TV",Warner TV (Cignal feed)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -446,7 +451,7 @@ http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1tcFQJs.png" ch-number="082" group-title="TV",HBO 2 East SD
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wgjPKFW/IMG-20241029-111906.png" ch-number="083" group-title="TV",Tap Action Flix HD
+#EXTINF:-1 tvg-id="TapAction.Flix.HD.ph" tvg-logo="https://i.ibb.co/wgjPKFW/IMG-20241029-111906.png" ch-number="083" group-title="TV",Tap Action Flix HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2046,6 +2051,8 @@ http://103.86.135.164:9981/stream/channelid/214022172?ticket=699FFF5FB295BF8CA98
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ch-number="" group-title="TV",
 
