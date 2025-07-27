@@ -431,6 +431,14 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=4
 #EXTINF:-1 tvg-id="" tvg-logo="" ch-number="070" group-title="TV",Syfy
 http://212.102.60.231/SYFY/index.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yg0YU4hFuuLLT0oWgDbxdA", "kid":"uAkMg2HMXMXBqsDsJxDeEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="ShowcaseMovies.my" tvg-name="Showcase" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Showcase_%282024%29.png" group-logo="https://iili.io/H7B4QYF.png" ch-number="069" group-title="TV",Showcase Movies  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
@@ -446,10 +454,13 @@ http://143.44.136.110:6910/001/2/ch00000090990000001196/manifest.mpd?virtualDoma
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" ch-number="080" group-title="TV",HBO SD US
-http://23.237.104.106:8080/USA_HBO/index.m3u8
+https://tvpass.org/live/HBOEast/sd
  
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1tcFQJs.png" ch-number="082" group-title="TV",HBO 2 East SD
-http://23.237.104.106:8080/USA_HBO2/index.m3u8
+https://tvpass.org/live/HBO2East/sd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ch-number="089" group-title="TV",HBO Zone East SD
+https://tvpass.org/live/HBOZoneEast/hd
 
 #EXTINF:-1 tvg-id="TapAction.Flix.HD.ph" tvg-logo="https://i.ibb.co/wgjPKFW/IMG-20241029-111906.png" ch-number="083" group-title="TV",Tap Action Flix HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1702,7 +1713,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 http://23.237.104.106:8080/USA_HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Rocsondaboss/Radio-channels/refs/heads/main/channel%20logos/cinemax%20us.png" ch-number="071" group-title="TV",Cinemax East US
-http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+https://tvpass.org/live/CinemaxEast/sd
 
 
 
@@ -2006,8 +2017,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ch-number="091" group-title="TV",HBO Zone East SD
-http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ch-number="385" group-title="TV",CCTV-13 A
 
