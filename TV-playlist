@@ -19,6 +19,13 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
+#EXTINF:-1 tvg-id="A2Z.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/A2Z_Channel_11_Logo.png/250px-A2Z_Channel_11_Logo.png" ch-number="001" group-title="TV",A2Z
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/RPTV_%282024%29.svg/1024px-RPTV_%282024%29.svg.png" ch-number="009" group-title="TV",RPTV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -164,12 +171,18 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="" ch-number="322" group-title="TV",24 Hour Free Movies
+https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8
+
 #EXTINF:-1 tvg-id="WARNER.TV.ph" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" ch-number="141" group-title="TV",Warner TV (Cignal feed)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ch-number="070" group-title="TV",Syfy
+http://212.102.60.231/SYFY/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ch-number="024" group-title="TV",Celestial Movies Pinoy
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -503,8 +516,7 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hitsnow.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" ch-number="069" group-title="TV",Movie Plus (Japan)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=4
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ch-number="070" group-title="TV",Syfy
-http://212.102.60.231/SYFY/index.m3u8
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1701,8 +1713,7 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-name="My Time Movie Network" tvg-logo="https://i.imgur.com/QyWsytf.png" ch-number="321" group-title="TV",My Time Movie Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ch-number="322" group-title="TV",24 Hour Free Movies
-https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ch-number="323" group-title="TV",Action!!!
@@ -2071,19 +2082,15 @@ http://143.44.136.110:6910/001/2/ch00000090990000001164/manifest.mpd?virtualDoma
 #EXTINF:-1 tvg-id="" tvg-logo="https://d780yzv2avs7v6.archive.fo/mClXD/8d1d1c4b364acb7bd1eb0bebe05a6f33d03774c1.webp" ch-number="393" group-title="TV",Zee Action
 http://103.86.135.164:9981/stream/channelid/214022172?ticket=699FFF5FB295BF8CA98CEE50340456FE8E935590&profile=pass
 
-#EXTINF:-1 tvg-id="A2Z.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/A2Z_Channel_11_Logo.png/250px-A2Z_Channel_11_Logo.png" ch-number="001" group-title="TV",A2Z
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
+
 
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ch-number="121" group-title="TV",ONE ASIA HD
 http://122.53.222.9:9981/stream/channelid/1547321769?profile=pass
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ch-number="" group-title="TV",
+#EXTINF:-1 tvg-id="" tvg-logo="" ch-number="394" group-title="TV",MBC PERSIA HD
+http://103.86.135.164:9981/stream/channelid/580286550?ticket=D4BDCBA31C7342CD918C52507705969812B27ACE&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ch-number="" group-title="TV",
 
