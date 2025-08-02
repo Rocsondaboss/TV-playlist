@@ -58,12 +58,10 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" ch-number="075" group-title="TV",HBO Asia
-#KODIPROP:inputstreamaddon=inputstream.adaptive	
-#KODIPROP:inputstream.adaptive.manifest_type=dash	
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey	
-#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b	
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd	
+#EXTINF:-1 tvg-id="HBO.ph" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" ch-number="075" group-title="TV",HBO Asia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001065/manifest.mpd?virtualDomain=001.live_hls.zte.com
 	
 
 
@@ -81,7 +79,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iHJvEAu.png" ch-number="077" group-title="TV",Cinemax Asia
+#EXTINF:-1 tvg-id="CINEMAX.HD.ph" tvg-logo="https://i.imgur.com/iHJvEAu.png" ch-number="077" group-title="TV",Cinemax Asia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -125,12 +123,60 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 
-#EXTINF:-1 tvg-id=""WARNER.TV.ph" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" ch-number="141" group-title="TV",Warner TV (Cignal feed)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="lotusmacauph1" tvg-name="Lotus Macau" ch-number="074" tvg-logo="https://i.imgur.com/YHRvj7B.png" group-title="TV",Lotus Macau
+http://143.44.136.110:6910/001/2/ch00000090990000001196/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" ch-number="080" group-title="TV",HBO SD US
+https://tvpass.org/live/HBOEast/sd
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1tcFQJs.png" ch-number="082" group-title="TV",HBO 2 East SD
+https://tvpass.org/live/HBO2East/sd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ch-number="089" group-title="TV",HBO Zone East SD
+https://tvpass.org/live/HBOZoneEast/hd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iPh7ZOS.png" ch-number="081" group-title="TV",HBO Family US
+http://23.237.104.106:8080/USA_HBO_FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ch-number="095" group-title="TV",HBO Comedy
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ch-number="096" group-title="TV",HBO Signature
+http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.m3u8
+
+#EXTINF:-1 tvg-id="TapAction.Flix.HD.ph" tvg-logo="https://i.ibb.co/wgjPKFW/IMG-20241029-111906.png" ch-number="083" group-title="TV",Tap Action Flix HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/TAP_Movies_logo.png" ch-number="084" group-title="TV",Tap Movies HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
+
+#EXTINF:-1 tvg-id="WARNER.TV.ph" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" ch-number="141" group-title="TV",Warner TV (Cignal feed)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ch-number="159" group-title="TV",KIX HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8d5712967cd495ca80fdc425bc61d6b:f248c29525ed4c40cc39baeee9634735
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/24k0Pye.png" ch-number="175" group-title="TV",BBC News (UK feed)
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8   
@@ -151,7 +197,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001073/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001105/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ch-number="182" group-title="TV",DW English  
+#EXTINF:-1 tvg-id="DEUTSCHEWELLE.ph" tvg-logo="" ch-number="182" group-title="TV",DW English  
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8   
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ch-number="187" group-title="TV",Arirang TV HD
@@ -376,7 +422,7 @@ http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 
 
 
-#EXTINF:-1 tvg-id="053" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AXN_v1.png" ch-number="143" group-title="TV",AXN (Cignal feed)
+#EXTINF:-1 tvg-id="AXN.ph" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AXN_v1.png" ch-number="143" group-title="TV",AXN (Cignal feed)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -440,41 +486,7 @@ http://212.102.60.231/SYFY/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="lotusmacauph1" tvg-name="Lotus Macau" ch-number="074" tvg-logo="https://i.imgur.com/YHRvj7B.png" group-title="TV",Lotus Macau
-http://143.44.136.110:6910/001/2/ch00000090990000001196/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" ch-number="080" group-title="TV",HBO SD US
-https://tvpass.org/live/HBOEast/sd
- 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1tcFQJs.png" ch-number="082" group-title="TV",HBO 2 East SD
-https://tvpass.org/live/HBO2East/sd
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ch-number="089" group-title="TV",HBO Zone East SD
-https://tvpass.org/live/HBOZoneEast/hd
-
-#EXTINF:-1 tvg-id="TapAction.Flix.HD.ph" tvg-logo="https://i.ibb.co/wgjPKFW/IMG-20241029-111906.png" ch-number="083" group-title="TV",Tap Action Flix HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/TAP_Movies_logo.png" ch-number="084" group-title="TV",Tap Movies HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
 
 
 
@@ -1213,12 +1225,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockentertainment.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ch-number="159" group-title="TV",KIX HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a8d5712967cd495ca80fdc425bc61d6b:f248c29525ed4c40cc39baeee9634735
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd
+
 
 
 
@@ -1709,8 +1716,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/250px-Logo_TV5_Monde_-_2021.svg.png" ch-number="168" group-title="TV",TV5Monde Pacifique
 https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iPh7ZOS.png" ch-number="081" group-title="TV",HBO Family US
-http://23.237.104.106:8080/USA_HBO_FAMILY/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Rocsondaboss/Radio-channels/refs/heads/main/channel%20logos/cinemax%20us.png" ch-number="071" group-title="TV",Cinemax East US
 https://tvpass.org/live/CinemaxEast/sd
@@ -1957,8 +1963,7 @@ http://216.122.181.10:8081/play/a0mu/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Disney_Channel_text_logo_%282024%29.svg/1280px-Disney_Channel_text_logo_%282024%29.svg.png" ch-number="376" group-title="TV",Disney Channel East
 https://tvpass.org/live/DisneyChannelEast/hd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/1920px-Disney_Jr._2024.svg.png" ch-number="377" group-title="TV",Disney Jr. East
-http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ch-number="378" group-title="TV",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
@@ -2033,13 +2038,7 @@ https://tvcdn.tv.telia.lt/live/eds/JimJam/DASH_5_CPIX_NPVR/JimJam.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha  
 #KODIPROP:inputstream.adaptive.license_key=d3b2f20862fa7f361fc703d8b9bcd340:f849ca1496a4c3eca2394628c08493d1
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ch-number="095" group-title="TV",HBO Comedy
-http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ch-number="096" group-title="TV",HBO Signature
-http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
@@ -2062,7 +2061,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001164/manifest.mpd?virtualDoma
 #EXTINF:-1 tvg-id="" tvg-logo="https://d780yzv2avs7v6.archive.fo/mClXD/8d1d1c4b364acb7bd1eb0bebe05a6f33d03774c1.webp" ch-number="393" group-title="TV",Zee Action
 http://103.86.135.164:9981/stream/channelid/214022172?ticket=699FFF5FB295BF8CA98CEE50340456FE8E935590&profile=pass
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/A2Z_Channel_11_Logo.png/250px-A2Z_Channel_11_Logo.png" ch-number="001" group-title="TV",A2Z
+#EXTINF:-1 tvg-id="A2Z.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/A2Z_Channel_11_Logo.png/250px-A2Z_Channel_11_Logo.png" ch-number="001" group-title="TV",A2Z
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
