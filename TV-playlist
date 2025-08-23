@@ -64,58 +64,53 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 #KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
 
-
-#EXTINF:-1 tvg-id="HBO.ph" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" ch-number="075" group-title="TV",HBO Asia
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001065/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="HBO.ph" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" ch-number="075" group-title="Local",HBO Asia
+#KODIPROP:inputstreamaddon=inputstream.adaptive	
+#KODIPROP:inputstream.adaptive.manifest_type=dash	
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey	
+#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b	
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd	
+	
 	
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="HBO.FAMILY.ph" tvg-logo="https://raw.githubusercontent.com/Rocsondaboss/Radio-channels/refs/heads/main/channel%20logos/hbo%20family.png" ch-number="076" group-title="TV",HBO Family Asia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
-
-
-
-#EXTINF:-1 tvg-id="CINEMAX.HD.ph" tvg-logo="https://i.imgur.com/iHJvEAu.png" ch-number="077" group-title="TV",Cinemax Asia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E8xTWtSnMgEUeGPKw4bN0w", "kid":"79sqjTkVHMOfS1HXYs+cEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="HBO.SIGNATURE.HD.ph" tvg-logo="https://i.imgur.com/4QSa9rw.png" ch-number="078" group-title="TV",HBO Signature Asia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
-https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
-
-
-
-
-
-
-
-
+	
+	
+	
+#EXTINF:-1 tvg-id="HBO.FAMILY.ph" tvg-logo="https://raw.githubusercontent.com/Rocsondaboss/Radio-channels/refs/heads/main/channel%20logos/hbo%20family.png" ch-number="076" group-title="Local",HBO Family Asia
+#KODIPROP:inputstreamaddon=inputstream.adaptive	
+#KODIPROP:inputstream.adaptive.manifest_type=dash	
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey	
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be	
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd	
+	
+	
+	
+	
+	
+	
+	
+	
+#EXTINF:-1 tvg-id="CINEMAX.HD.ph" tvg-logo="https://i.imgur.com/iHJvEAu.png" ch-number="077" group-title="Local",Cinemax Asia
+#KODIPROP:inputstreamaddon=inputstream.adaptive	
+#KODIPROP:inputstream.adaptive.manifest_type=dash	
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey	
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955	
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd	
+	
+	
+	
+	
+	
+	
+	
+	
+#EXTINF:-1 tvg-id="" tvg-logo="" ch-number="078" group-title="Local",HBO Signature Asia
+#KODIPROP:inputstreamaddon=inputstream.adaptive	
+#KODIPROP:inputstream.adaptive.manifest_type=dash	
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey	
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f	
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd	
+	
 #EXTINF:-1 tvg-id="HBO.HITS.HD.ph" tvg-logo="https://raw.githubusercontent.com/Rocsondaboss/Radio-channels/refs/heads/main/channel%20logos/hbo%20hits.png" ch-number="079" group-title="TV",HBO Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
