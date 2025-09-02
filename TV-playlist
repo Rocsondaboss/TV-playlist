@@ -39,8 +39,8 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
 https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" ch-number="027" group-title="TV",Cinemo!
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha  
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00  
+#KODIPROP:inputstream.adaptive.license_type=
+#KODIPROP:inputstream.adaptive.license_key=
 http://161.49.17.2:6610/001/2/ch00000090990000001254/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com  
 
 #EXTINF:-1 tvg-id="PBO.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1280px-Pinoy_Box_Office_logo.svg.png" ch-number="018" group-title="TV",PBO
@@ -171,15 +171,17 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" ch-number="322" group-title="TV",24 Hour Free Movies
 https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8
 
-#EXTINF:-1 tvg-id="WARNER.TV.ph" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" ch-number="141" group-title="TV",Warner TV (Cignal feed)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
+#EXTINF:-1 tvg-id="WARNER.TV.ph" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" ch-number="141" group-title="TV",Warner TV
+http://161.49.17.2:6610/001/2/ch00000090990000001096/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ch-number="070" group-title="TV",Syfy
 https://tvpass.org/live/SyfyEast/sd
+
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://i.imgur.com/3BCg3pS.png" ch-number="541",Movies Now
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ch-number="024" group-title="TV",Celestial Movies Pinoy
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1451,9 +1453,8 @@ http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" ch-number="133" group-title="TV",NFL Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ch-number="134" group-title="TV",NFL Network
-http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" ch-number="134" group-title="TV",NBA TV Philippines
+http://161.49.17.2:6610/001/2/ch00000090990000001064/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ch-number="136" group-title="TV",NHL Network
@@ -1488,8 +1489,8 @@ http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Premier Football"  tvg-logo="https://i.imgur.com/mqrPV7o.png" ch-number="138" group-title="TV",Premier Football
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha  
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00  
+#KODIPROP:inputstream.adaptive.license_type=
+#KODIPROP:inputstream.adaptive.license_key=
 http://161.49.17.2:6610/001/2/ch00000090990000001127/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com  
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ch-number="215" group-title="TV",FXX
@@ -1944,8 +1945,8 @@ http://161.49.17.2:6610/001/2/ch00000090990000001324/manifest.mpd?JITPDRMType=Wi
 http://161.49.17.2:6610/001/2/ch00000090990000001165/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="Cartoonito Asia" tvg-logo="https://i.imgur.com/DmfpVnP.png" ch-number="058" group-title="TV",Cartoonito Asia
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha  
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00  
+#KODIPROP:inputstream.adaptive.license_type=
+#KODIPROP:inputstream.adaptive.license_key=
 http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com  
 
 
@@ -2044,14 +2045,14 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=4
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ch-number="117" group-title="TV",Living Asia Channel
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha  
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00  
+#KODIPROP:inputstream.adaptive.license_type=
+#KODIPROP:inputstream.adaptive.license_key=
 http://161.49.17.2:6610/001/2/ch00000090990000001154/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com  
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ch-number="900" group-title="TV",Polsat Jimjam
 https://tvcdn.tv.telia.lt/live/eds/JimJam/DASH_5_CPIX_NPVR/JimJam.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha  
+#KODIPROP:inputstream.adaptive.license_type=
 #KODIPROP:inputstream.adaptive.license_key=d3b2f20862fa7f361fc703d8b9bcd340:f849ca1496a4c3eca2394628c08493d1
 
 
