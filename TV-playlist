@@ -181,7 +181,7 @@ https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ch-number="070" group-title="TV",Syfy
-http://212.102.60.231/SYFY/index.m3u8
+https://tvpass.org/live/SyfyEast/sd
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ch-number="024" group-title="TV",Celestial Movies Pinoy
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
