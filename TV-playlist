@@ -65,6 +65,9 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
+
+
+
 #EXTINF:-1 tvg-id="HBO.ph" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" ch-number="075" group-title="TV",HBO Asia
 #KODIPROP:inputstreamaddon=inputstream.adaptive	
 #KODIPROP:inputstream.adaptive.manifest_type=dash	
@@ -134,27 +137,27 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/lotusmacau_prd.mpd
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Rocsondaboss/Radio-channels/refs/heads/main/channel%20logos/cinemax%20us.png" ch-number="071" group-title="TV",Cinemax East US
+https://tvpass.org/live/CinemaxEast/sd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" ch-number="080" group-title="TV",HBO SD US
 https://tvpass.org/live/HBOEast/sd
  
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1tcFQJs.png" ch-number="082" group-title="TV",HBO 2 East SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1tcFQJs.png" ch-number="082" group-title="TV",HBO Hits US
 https://tvpass.org/live/HBO2East/sd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ch-number="089" group-title="TV",HBO Zone East SD
+#EXTINF:-1 tvg-id="" tvg-logo="" ch-number="089" group-title="TV",HBO Zone US
 https://tvpass.org/live/HBOZoneEast/hd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iPh7ZOS.png" ch-number="081" group-title="TV",HBO Family US
-http://23.237.104.106:8080/USA_HBO_FAMILY/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ch-number="095" group-title="TV",HBO Comedy
-http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" ch-number="081" group-title="TV",HBO Comedy
+https://tvpass.org/live/HBOComedyEast/sd
 
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ch-number="096" group-title="TV",HBO Signature
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LnH6c4O.png" ch-number="096" group-title="TV",HBO Drama
 https://tvpass.org/live/HBOSignatureEast/sd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LnH6c4O.png" ch-number="097" group-title="TV",Cinemax Hits
+https://tvpass.org/live/MoreMaxEast/sd
 
 #EXTINF:-1 tvg-id="TapAction.Flix.HD.ph" tvg-logo="https://i.ibb.co/wgjPKFW/IMG-20241029-111906.png" ch-number="083" group-title="TV",Tap Action Flix HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1756,8 +1759,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Rocsondaboss/Radio-channels/refs/heads/main/channel%20logos/cinemax%20us.png" ch-number="071" group-title="TV",Cinemax East US
-https://tvpass.org/live/CinemaxEast/sd
+
 
 
 
