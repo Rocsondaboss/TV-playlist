@@ -2103,7 +2103,8 @@ http://122.53.222.9:9981/stream/channelid/1547321769?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="" ch-number="394" group-title="TV",MBC PERSIA HD
 http://103.86.135.164:9981/stream/channelid/580286550?ticket=D4BDCBA31C7342CD918C52507705969812B27ACE&profile=pass
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ch-number="" group-title="TV",
+#EXTINF:-1 tvg-id="" tvg-logo="" ch-number="" group-title="TV",STS
+http://37.46.49.14:18010/play/a027/index.m3u
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ch-number="" group-title="TV",
 
