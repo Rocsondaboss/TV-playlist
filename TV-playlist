@@ -2103,8 +2103,8 @@ http://122.53.222.9:9981/stream/channelid/1547321769?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="" ch-number="394" group-title="TV",MBC PERSIA HD
 http://103.86.135.164:9981/stream/channelid/580286550?ticket=D4BDCBA31C7342CD918C52507705969812B27ACE&profile=pass
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ch-number="" group-title="TV",RTL
-http://185.130.218.254:25007/RTL/mpegts
+#EXTINF:-1 tvg-id="" tvg-logo="" ch-number="" group-title="TV",Disney Jr. India
+https://live.dinesh29.com.np/stream/jiotvplus/disneyjunior/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ch-number="" group-title="TV",
