@@ -96,7 +96,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mp
 
 
 
-#EXTINF:-1 tvg-id="CINEMAX.HD.ph" tvg-logo="https://i.imgur.com/iHJvEAu.png" ch-number="077" group-title="Local",Cinemax Asia
+#EXTINF:-1 tvg-id="CINEMAX.HD.ph" tvg-logo="https://i.imgur.com/iHJvEAu.png" ch-number="077" group-title="TV",Cinemax Asia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
