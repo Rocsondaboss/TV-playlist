@@ -542,10 +542,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hitsnow/default/index.m
 (empty)
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ch-number="069" group-title="TV",Movie Plus (Japan)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=4
-
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
