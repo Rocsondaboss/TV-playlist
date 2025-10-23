@@ -2,7 +2,7 @@
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/GMA_Network_2024_logo.png" ch-number="007" group-title="TV",GMA-7	
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/GMA_Network_2024_logo.png" ch-number="007" group-title="TV",GMA-7	
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001093/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -28,7 +28,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 #KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/RPTV_%282024%29.svg/1024px-RPTV_%282024%29.svg.png" ch-number="009" group-title="TV",RPTV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/RPTV_%282024%29.svg/1024px-RPTV_%282024%29.svg.png" ch-number="009" group-title="TV",RPTV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -37,12 +37,12 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/i
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" ch-number="016" group-title="TV",Cinemo! Global
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" ch-number="016" group-title="TV",Cinemo! Global
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f
 https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" ch-number="027" group-title="TV",Cinemo!
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" ch-number="027" group-title="TV",Cinemo!
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001254/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -54,7 +54,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001254/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pbo_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Viva_Cinema_2021.png" ch-number="019" group-title="TV",VivaCinema
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Viva_Cinema_2021.png" ch-number="019" group-title="TV",VivaCinema
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -139,26 +139,26 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/index.mpd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://raw.githubusercontent.com/Rocsondaboss/Radio-channels/refs/heads/main/channel%20logos/cinemax%20us.png" ch-number="071" group-title="TV",Cinemax East US
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Rocsondaboss/Radio-channels/refs/heads/main/channel%20logos/cinemax%20us.png" ch-number="071" group-title="TV",Cinemax East US
 https://tvpass.org/live/CinemaxEast/sd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" ch-number="080" group-title="TV",HBO SD US
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" ch-number="080" group-title="TV",HBO SD US
 https://tvpass.org/live/HBOEast/sd
  
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://i.imgur.com/1tcFQJs.png" ch-number="082" group-title="TV",HBO Hits US
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1tcFQJs.png" ch-number="082" group-title="TV",HBO Hits US
 https://tvpass.org/live/HBO2East/sd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/HBO_Movies_2025.svg/revision/latest?cb=20250904231017" ch-number="089" group-title="TV",HBO Movies US
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/HBO_Movies_2025.svg/revision/latest?cb=20250904231017" ch-number="089" group-title="TV",HBO Movies US
 https://tvpass.org/live/HBOZoneEast/hd
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/HBO-COMEDY-2025.svg" ch-number="081" group-title="TV",HBO Comedy
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/HBO-COMEDY-2025.svg" ch-number="081" group-title="TV",HBO Comedy
 https://tvpass.org/live/HBOComedyEast/sd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://i.imgur.com/LnH6c4O.png" ch-number="096" group-title="TV",HBO Drama
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LnH6c4O.png" ch-number="096" group-title="TV",HBO Drama
 https://tvpass.org/live/HBOSignatureEast/sd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Cinemax_Hits_2025.svg/revision/latest/scale-to-width-down/300?cb=20250904230456" ch-number="097" group-title="TV",Cinemax Hits
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Cinemax_Hits_2025.svg/revision/latest/scale-to-width-down/300?cb=20250904230456" ch-number="097" group-title="TV",Cinemax Hits
 https://tvpass.org/live/MoreMaxEast/sd
 
 #EXTINF:-1 tvg-id="TapAction.Flix.HD.ph" tvg-logo="https://i.ibb.co/wgjPKFW/IMG-20241029-111906.png" ch-number="083" group-title="TV",Tap Action Flix HD
@@ -168,21 +168,21 @@ https://tvpass.org/live/MoreMaxEast/sd
 #KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tapactionflix_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/TAP_Movies_logo.png" ch-number="084" group-title="TV",Tap Movies HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/TAP_Movies_logo.png" ch-number="084" group-title="TV",Tap Movies HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tapmovies_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" ch-number="091" group-title="TV",HBO POP
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" ch-number="091" group-title="TV",HBO POP
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
 https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="322" group-title="TV",24 Hour Free Movies
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="322" group-title="TV",24 Hour Free Movies
 https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8
 
 #EXTINF:-1 tvg-id="WARNER.TV.ph" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" ch-number="141" group-title="TV",Warner TV
@@ -190,36 +190,36 @@ https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001096/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="070" group-title="TV",Syfy
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="070" group-title="TV",Syfy
 https://tvpass.org/live/SyfyEast/sd
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://raw.githubusercontent.com/Rocsondaboss/TV-playlist/refs/heads/main/TV_logos/celestial-movies-pinoy.png" ch-number="024" group-title="TV",Celestial Movies Pinoy
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Rocsondaboss/TV-playlist/refs/heads/main/TV_logos/celestial-movies-pinoy.png" ch-number="024" group-title="TV",Celestial Movies Pinoy
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.113:6610/001/2/ch00000090990000001077/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="068" group-title="TV",Celestial Movies
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="068" group-title="TV",Celestial Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NhGXgF0BScKYAZRs8t3mfA", "kid":"xcG6JpByka/sEamnjVE0EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/KIX.png" ch-number="159" group-title="TV",KIX HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/KIX.png" ch-number="159" group-title="TV",KIX HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8d5712967cd495ca80fdc425bc61d6b:f248c29525ed4c40cc39baeee9634735
 https://qp-pldt-live-bpk-06-prod.akamaized.net/bpk-tv/kix_hd1/default1/index.mpd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18102541/cinema-one-logo-300x300.png" ch-number="017" group-title="TV",Cinema One
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18102541/cinema-one-logo-300x300.png" ch-number="017" group-title="TV",Cinema One
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001283/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://i.imgur.com/V0uRwcv.png" ch-number="386" group-title="TV",Xing Kong
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/V0uRwcv.png" ch-number="386" group-title="TV",Xing Kong
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001337/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -227,12 +227,12 @@ http://161.49.17.2:6610/001/2/ch00000090990000001337/manifest.mpd?JITPDRMType=Wi
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://i.imgur.com/iWFLiYM.png" ch-number="067" group-title="TV",Celestial Classic Movies (CCM)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iWFLiYM.png" ch-number="067" group-title="TV",Celestial Classic Movies (CCM)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.111:6610/001/2/ch00000090990000001244/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/Tmc2021logo.png" ch-number="020" group-title="TV",TMC
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/Tmc2021logo.png" ch-number="020" group-title="TV",TMC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -240,27 +240,27 @@ http://143.44.136.111:6610/001/2/ch00000090990000001244/manifest.mpd?JITPDRMType
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tagalogmovie/default/index.mpd
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://i.imgur.com/24k0Pye.png" ch-number="175" group-title="TV",BBC News (UK feed)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/24k0Pye.png" ch-number="175" group-title="TV",BBC News (UK feed)
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8   
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="179" group-title="TV",Al Jazeera English 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="179" group-title="TV",Al Jazeera English 
 #EXTVLCOPT:network-caching=1000    
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8    
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png" ch-number="180" group-title="TV",CNN International
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png" ch-number="180" group-title="TV",CNN International
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/170px-Fox_News_Channel_logo.svg.png" ch-number="181" group-title="TV",Fox News International
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/170px-Fox_News_Channel_logo.svg.png" ch-number="181" group-title="TV",Fox News International
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001105/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="DEUTSCHEWELLE.ph" tvg-logo="" ch-number="182" group-title="TV",DW English  
+#EXTINF:-1 tvg-id="DEUTSCHEWELLE.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="182" group-title="TV",DW English  
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8   
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="187" group-title="TV",Arirang TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="187" group-title="TV",Arirang TV HD
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Arirang" ch-number="188" group-title="TV",Arirang (Cignal feed)
@@ -281,7 +281,7 @@ https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=b259df9987364dd3b778aa5d42cb9acd:753e3dba96ab467e468269e7e33fb813
 https://qp-pldt-live-bpk-13-prod.akamaized.net/bpk-tv/dr_channelnewsasia/default1/index.mpd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/LiveNOW_from_FOX.png" ch-number="191" group-title="TV",LiveNow from Fox
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/LiveNOW_from_FOX.png" ch-number="191" group-title="TV",LiveNow from Fox
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 
@@ -293,44 +293,44 @@ http://161.49.17.2:6610/001/2/ch00000090990000001336/manifest.mpd?JITPDRMType=Wi
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://i.imgur.com/oRXnhzh.png" ch-number="127" group-title="TV",SPOTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oRXnhzh.png" ch-number="127" group-title="TV",SPOTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001133/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://i.imgur.com/5WojqG6.png" ch-number="128" group-title="TV",SPOTV2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5WojqG6.png" ch-number="128" group-title="TV",SPOTV2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001200/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="129" group-title="TV",Premier Sports 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="129" group-title="TV",Premier Sports 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=59454adb530b4e0784eae62735f9d850:61100d0b8c4dd13e4eb8b4851ba192cc
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/premiersports2hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="387" group-title="TV",Eurosport
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="387" group-title="TV",Eurosport
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.113:6610/001/2/ch00000090990000001325/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" ch-number="130" group-title="TV",Premier Sports (Philippines)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" ch-number="130" group-title="TV",Premier Sports (Philippines)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001135/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Sari-Sari_Channel_logo.png/200px-Sari-Sari_Channel_logo.png" ch-number="003" group-title="TV",Sari-Sari
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Sari-Sari_Channel_logo.png/200px-Sari-Sari_Channel_logo.png" ch-number="003" group-title="TV",Sari-Sari
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d
 https://qp-pldt-live-bpk-06-prod.akamaized.net/bpk-tv/cg_sari_sari_sd/default1/index.mpd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/PTV_4_Para_Sa_Bayan_Logo_June_2017.svg/480px-PTV_4_Para_Sa_Bayan_Logo_June_2017.svg.png" ch-number="004" group-title="TV",PTV-4
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/PTV_4_Para_Sa_Bayan_Logo_June_2017.svg/480px-PTV_4_Para_Sa_Bayan_Logo_June_2017.svg.png" ch-number="004" group-title="TV",PTV-4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -339,7 +339,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_ptv4_sd/default1/index.
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/800px-One_Sports_logo.svg.png" ch-number="006" group-title="TV",One Sports
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/800px-One_Sports_logo.svg.png" ch-number="006" group-title="TV",One Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -348,7 +348,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/in
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/800px-OneNewsPH_logo.svg.png" ch-number="008" group-title="TV",One News
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/800px-OneNewsPH_logo.svg.png" ch-number="008" group-title="TV",One News
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -357,13 +357,13 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/onenews_hd1/default/index.
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://raw.githubusercontent.com/Rocsondaboss/Radio-channels/refs/heads/main/channel%20logos/bilyonaryo%20news%20channel.png" ch-number="010" group-title="TV",Bilyonaryo News Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Rocsondaboss/Radio-channels/refs/heads/main/channel%20logos/bilyonaryo%20news%20channel.png" ch-number="010" group-title="TV",Bilyonaryo News Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.113:6610/001/2/ch00000090990000001124/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="040" group-title="TV",BuKo
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="040" group-title="TV",BuKo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -371,7 +371,7 @@ http://143.44.136.113:6610/001/2/ch00000090990000001124/manifest.mpd?JITPDRMType
 https://qp-pldt-live-bpk-06-prod.akamaized.net/bpk-tv/cg_buko_sd/default1/index.mpd
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://i.imgur.com/2L3JzLv.png" ch-number="041" group-title="TV",Heart Of Asia
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2L3JzLv.png" ch-number="041" group-title="TV",Heart Of Asia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -379,7 +379,7 @@ https://qp-pldt-live-bpk-06-prod.akamaized.net/bpk-tv/cg_buko_sd/default1/index.
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=ryansnetcafe/5.0
 https://kaotv.ganbaruby23.xyz/dash/heartofasia/manifest.mpd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://i.imgur.com/fDhBrB4.png" ch-number="042" group-title="TV", iHeart Movies
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fDhBrB4.png" ch-number="042" group-title="TV", iHeart Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -421,68 +421,68 @@ https://kaotv.ganbaruby23.xyz/dash/iheartmovies/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/CLTV36_logo_2020.png" ch-number="036" group-title="TV",CLTV 36
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/CLTV36_logo_2020.png" ch-number="036" group-title="TV",CLTV 36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001314/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="100" group-title="TV",EWTN Africa
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="100" group-title="TV",EWTN Africa
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="101" group-title="TV",EWTN Asia-Pacific
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="101" group-title="TV",EWTN Asia-Pacific
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001104/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="102" group-title="TV",3ABN Canada
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="102" group-title="TV",3ABN Canada
 https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="103" group-title="TV",3ABN Dare to Dream Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="103" group-title="TV",3ABN Dare to Dream Network
 https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="104" group-title="TV",Great Commission TV (GCTV)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="104" group-title="TV",Great Commission TV (GCTV)
 http://45.32.115.103/live/livestream/index.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/INC_TV_New_Logo.png/1280px-INC_TV_New_Logo.png" ch-number="105" group-title="TV",INCTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/INC_TV_New_Logo.png/1280px-INC_TV_New_Logo.png" ch-number="105" group-title="TV",INCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001092/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/270px-UNTV-Logo-2016.svg.png" ch-number="015" group-title="TV",UNTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/270px-UNTV-Logo-2016.svg.png" ch-number="015" group-title="TV",UNTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.111:6610/001/2/ch00000090990000001091/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="106" group-title="TV",Ang Dating Daan
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="106" group-title="TV",Ang Dating Daan
 https://ythls.armelin.one/channel/UCFRj7FPKTthzA_gfE2PsGJQ.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="107" group-title="TV",Oras ng Himala
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="107" group-title="TV",Oras ng Himala
 https://ythls.armelin.one/channel/UCG_nkfwsIhO1OiRQUGfdLyw.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Radyo-veritas-846-dzrv-logo.jpeg/220px-Radyo-veritas-846-dzrv-logo.jpeg" ch-number="108" group-title="TV",Veritas 846
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Radyo-veritas-846-dzrv-logo.jpeg/220px-Radyo-veritas-846-dzrv-logo.jpeg" ch-number="108" group-title="TV",Veritas 846
 https://ythls.armelin.one/channel/UCAzUdEY3ZqtcC_s4ZdDKm7Q.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="109" group-title="TV",Vatican Media
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="109" group-title="TV",Vatican Media
 https://ythls.armelin.one/channel/UCxIsefyl9g9A5SGWA4FvGIA.m3u8
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/TV_MARIA_logo.png" ch-number="110" group-title="TV",TV Maria
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/TV_MARIA_logo.png" ch-number="110" group-title="TV",TV Maria
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa3998b9a4de40659725ebc5151250d6:998f1294b122bbf1a96c1ddc0cbb229f
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/tvmaria_prd/default/index.mpd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://3abn.org/img/logos/3abn-logo-md.jpg" ch-number="111" group-title="TV",3ABN
+#EXTINF:-1 tvg-id="" tvg-logo="https://3abn.org/img/logos/3abn-logo-md.jpg" ch-number="111" group-title="TV",3ABN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001183/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Truth_Channel_Official_Logo.png" ch-number="112" group-title="TV",Truth Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Truth_Channel_Official_Logo.png" ch-number="112" group-title="TV",Truth Channel
 https://ythls.armelin.one/channel/UCa3hzYljDByZxkjIMah_2nw.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png" ch-number="115" group-title="TV",CCTN-47
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png" ch-number="115" group-title="TV",CCTN-47
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
    
   
@@ -517,7 +517,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_axn_sd/default/index.mp
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="021" ch-number="021" group-title="TV",True FM TV
+#EXTINF:-1 tvg-id="" tvg-logo="021" ch-number="021" group-title="TV",True FM TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -538,7 +538,7 @@ https://qp-pldt-live-bpk-08-prod.akamaized.net/bpk-tv/truefm_tv/default1/index.m
 #KODIPROP:inputstream.adaptive.license_key=14439a1b7afc4527bb0ebc51cf11cbc1:92b0287c7042f271b266cc11ab7541f1
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hitsnow/default/index.mpd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="" group-title="TV",
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="" group-title="TV",
 (empty)
 
 
@@ -559,13 +559,13 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-name=" " tvg-logo="https://htvc.vn/uploads/editor/images/Cinemaworld.png" ch-number="086" group-title="TV",CinemaWorld
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://htvc.vn/uploads/editor/images/Cinemaworld.png" ch-number="086" group-title="TV",CinemaWorld
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.113:6610/001/2/ch00000090990000001158/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="087" group-title="TV",tvN Movies Pinoy
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="087" group-title="TV",tvN Movies Pinoy
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -581,7 +581,7 @@ https://qp-pldt-live-bpk-07-prod.akamaized.net/bpk-tv/cg_tvnmovie/default1/index
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="088" group-title="TV",tvN Premium
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="088" group-title="TV",tvN Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -595,7 +595,7 @@ https://qp-pldt-live-bpk-09-prod.akamaized.net/bpk-tv/cg_tvnpre/default1/index.m
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/1024px-Disney%2B_2024.svg.png" ch-number="899" group-title="TV",Disney+ PPV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/1024px-Disney%2B_2024.svg.png" ch-number="899" group-title="TV",Disney+ PPV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -609,7 +609,7 @@ https://qp-pldt-live-bpk-07-prod.akamaized.net/bpk-tv/ppvhd298/default1/index.mp
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="120" group-title="TV",MPTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="120" group-title="TV",MPTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -638,7 +638,7 @@ https://qp-pldt-live-bpk-09-prod.akamaized.net/bpk-tv/cg_mptv/default1/index.mpd
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://i.imgur.com/cgfKSDP.png" ch-number="050" group-title="TV",DreamWorks
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cgfKSDP.png" ch-number="050" group-title="TV",DreamWorks
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -669,7 +669,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default1
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="122" group-title="TV",tap_sports
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="122" group-title="TV",tap_sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -683,7 +683,7 @@ https://qp-pldt-live-bpk-11-prod.akamaized.net/bpk-tv/dr_tapsports/default1/inde
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/OneSportsPlus_logo.svg/200px-OneSportsPlus_logo.svg.png" ch-number="123" group-title="TV",One Sports+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/OneSportsPlus_logo.svg/200px-OneSportsPlus_logo.svg.png" ch-number="123" group-title="TV",One Sports+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -721,7 +721,7 @@ https://qp-pldt-live-bpk-03-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/defau
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="146" group-title="TV",KBS World
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="146" group-title="TV",KBS World
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -744,7 +744,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kbsworld/default/index.mpd
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/220px-Logo_Lifetime_2020.svg.png" ch-number="147" group-title="TV",Lifetime
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/220px-Logo_Lifetime_2020.svg.png" ch-number="147" group-title="TV",Lifetime
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -758,7 +758,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_lifetime/default/index.
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/200px-HGTV_2010.svg.png" ch-number="148" group-title="TV",HGTV Asia
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/200px-HGTV_2010.svg.png" ch-number="148" group-title="TV",HGTV Asia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -792,14 +792,14 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/travel_channel_sd/default/
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Discovery_white_2019.svg" ch-number="152" group-title="TV",Discovery Channel Southeast Asia
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Discovery_white_2019.svg" ch-number="152" group-title="TV",Discovery Channel Southeast Asia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6
 https://qp-pldt-live-bpk-13-prod.akamaized.net/bpk-tv/dr_discovery/default1/index.mpd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="153" group-title="TV",Animal Planet Asia
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="153" group-title="TV",Animal Planet Asia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -822,7 +822,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/defaul
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://www.hitstv.com/assets/hits.png" ch-number="154" group-title="TV",HITS
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.hitstv.com/assets/hits.png" ch-number="154" group-title="TV",HITS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -851,7 +851,7 @@ https://qp-pldt-live-bpk-04-prod.akamaized.net/bpk-tv/hits_hd1/default1/index.mp
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="032" group-title="TV",depedchannel
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="032" group-title="TV",depedchannel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -873,7 +873,7 @@ https://qp-pldt-live-bpk-07-prod.akamaized.net/bpk-tv/depedch_sd/default1/index.
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/250px-History_%282021%29.svg.png" ch-number="155" group-title="TV",History Asia
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/250px-History_%282021%29.svg.png" ch-number="155" group-title="TV",History Asia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -887,7 +887,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_historyhd/default/index
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="156" group-title="TV",Fashion TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="156" group-title="TV",Fashion TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -932,7 +932,7 @@ https://qp-pldt-live-bpk-11-prod.akamaized.net/bpk-tv/dr_fashiontvhd/default1/in
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/250px-Animax_logo.svg.png" ch-number="055" group-title="TV",Animax
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/250px-Animax_logo.svg.png" ch-number="055" group-title="TV",Animax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -946,7 +946,7 @@ https://qp-pldt-live-bpk-07-prod.akamaized.net/bpk-tv/cg_animax_sd/default1/inde
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/CGTN_Documentary.svg/220px-CGTN_Documentary.svg.png" ch-number="166" group-title="TV",CGTN Documentary
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/CGTN_Documentary.svg/220px-CGTN_Documentary.svg.png" ch-number="166" group-title="TV",CGTN Documentary
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1014,7 +1014,7 @@ https://qp-pldt-live-bpk-11-prod.akamaized.net/bpk-tv/dr_cgtn/default1/index.mpd
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="033" group-title="TV",Knowledge Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="033" group-title="TV",Knowledge Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001340/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -1032,11 +1032,11 @@ http://161.49.17.2:6610/001/2/ch00000090990000001340/manifest.mpd?JITPDRMType=Wi
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="056" group-title="TV",Disney Jr. Latin America
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="056" group-title="TV",Disney Jr. Latin America
 http://168.181.122.234:8000/play/a037/index.m3u8
 
    
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" ch-number="057" group-title="TV",Cartoon Network Canada 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" ch-number="057" group-title="TV",Cartoon Network Canada 
 #KODIPROP:inputstreamaddon=inputstream.adaptive   
 #KODIPROP:inputstream.adaptive.manifest_type=dash   
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey   
@@ -1045,52 +1045,52 @@ https://a190aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/amp
 
  
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" ch-number="059" group-title="TV",Cartoon Network Asia
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" ch-number="059" group-title="TV",Cartoon Network Asia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
 https://qp-pldt-live-bpk-12-prod.akamaized.net/bpk-tv/dr_cartoonnetworkhd/default1/index.mpd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="060" group-title="TV",Dreamworks Channel (Tagalog)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="060" group-title="TV",Dreamworks Channel (Tagalog)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
 https://qp-pldt-live-bpk-07-prod.akamaized.net/bpk-tv/cg_dreamworktag/default1/index.mpd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Moonbug.svg" ch-number="061" group-title="TV",moonbug_kids
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Moonbug.svg" ch-number="061" group-title="TV",moonbug_kids
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f
 https://qp-pldt-live-bpk-06-prod.akamaized.net/bpk-tv/cg_moonbug_kids_sd/default1/index.mpd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="062" group-title="TV",Nickelodeon Asia
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="062" group-title="TV",Nickelodeon Asia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ce58f37576b416381b6514a809bfd8b:f0fbb758cdeeaddfa3eae538856b4d72
 https://qp-pldt-live-bpk-11-prod.akamaized.net/bpk-tv/dr_nickelodeon/default1/index.mpd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="064" group-title="TV",ZooMoo
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="064" group-title="TV",ZooMoo
 https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png" ch-number="063" group-title="TV",Nick Jr. Asia
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Nick_Jr._Splat_2023.png" ch-number="063" group-title="TV",Nick Jr. Asia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bab5c11178b646749fbae87962bf5113:0ac679aad3b9d619ac39ad634ec76bc8
 https://qp-pldt-live-bpk-12-prod.akamaized.net/bpk-tv/dr_nickjr/default1/index.mpd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="065" group-title="TV",Nickelodeon Spain
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="065" group-title="TV",Nickelodeon Spain
 http://185.189.225.157/Nick/index.m3u8   
    
 
    
 
    
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="066" group-title="TV",Disney Channel Canada 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="066" group-title="TV",Disney Channel Canada 
 #KODIPROP:inputstreamaddon=inputstream.adaptive   
 #KODIPROP:inputstream.adaptive.manifest_type=dash   
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey   
@@ -1102,45 +1102,45 @@ https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/o
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="050" group-title="TV",Disney Jr. Canada 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="050" group-title="TV",Disney Jr. Canada 
 #KODIPROP:inputstreamaddon=inputstream.adaptive   
 #KODIPROP:inputstream.adaptive.manifest_type=dash   
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey   
 #KODIPROP:inputstream.adaptive.license_key=221e176f3dfabb84ff506d65dd93b09f:6a97b8d4beed4d4b1697c1488706c6ca   
 https://a181aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/0qvo3uakfd/out/v1/d62a555c1e5945f3bae88ae4018321d4/cenc.mpd   
    
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="051" group-title="TV",Disney Xd Canada 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="051" group-title="TV",Disney Xd Canada 
 #KODIPROP:inputstreamaddon=inputstream.adaptive   
 #KODIPROP:inputstream.adaptive.manifest_type=dash   
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey   
 #KODIPROP:inputstream.adaptive.license_key=39cebece8b36640f9ba3f248ecfdf86a:fad936249e036830aa5bef41bec05326   
 https://a53aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/jts4tzzv1k/out/v1/8a5b29f7068c415aa371ea95743382e6/cenc.mpd   
    
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="052" group-title="TV",Treehouse Canada  
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="052" group-title="TV",Treehouse Canada  
 #KODIPROP:inputstreamaddon=inputstream.adaptive   
 #KODIPROP:inputstream.adaptive.manifest_type=dash   
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey   
 #KODIPROP:inputstream.adaptive.license_key=de9b995d2aba32bae1c5dbe38a46f2d9:a2d94fdff16e9c332164a73f8b170bd3   
 https://a79aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ghf7y1plnj/out/v1/0c87bd17ab474015b77c0f3028190f78/cenc.mpd   
    
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="053" group-title="TV",Ytv Canada  
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="053" group-title="TV",Ytv Canada  
 #KODIPROP:inputstreamaddon=inputstream.adaptive   
 #KODIPROP:inputstream.adaptive.manifest_type=dash   
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey   
 #KODIPROP:inputstream.adaptive.license_key=6f0aeae5779f1dcaef23f0bfbc828220:7bcef3cf93de00e3daeb190d15b1ec05   
 https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd   
    
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="049" group-title="TV",Adult Swim Canada 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="049" group-title="TV",Adult Swim Canada 
 #KODIPROP:inputstreamaddon=inputstream.adaptive   
 #KODIPROP:inputstream.adaptive.manifest_type=dash   
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey   
 #KODIPROP:inputstream.adaptive.license_key=cc26110bb0d29d0e4452d42602846080:4a2e5782e26a3e2d7dd0431205c14518   
 https://a116aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rwcf8uax9l/out/v1/13ccaaacbe1143e69b7732fced73f0ab/cenc.mpd   
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="048" group-title="TV",Spacetoon
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="048" group-title="TV",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="047" group-title="TV",Nickelodeon EMEA(?)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="047" group-title="TV",Nickelodeon EMEA(?)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1160,7 +1160,7 @@ https://cdnlb.tvplayhome.lt/live/eds/Nickelodeon/GO3_LIVE_DASH/Nickelodeon.mpd
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://i.imgur.com/zMygZPP.png" ch-number="013" group-title="TV",IBC-13
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zMygZPP.png" ch-number="013" group-title="TV",IBC-13
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001089/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -1181,7 +1181,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001089/manifest.mpd?JITPDRMType=Wi
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="034" group-title="TV",TVUP
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="034" group-title="TV",TVUP
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1244,7 +1244,7 @@ https://qp-pldt-live-bpk-09-prod.akamaized.net/bpk-tv/tvup_prd/default1/index.mp
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="157" group-title="TV",BBC Earth
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="157" group-title="TV",BBC Earth
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1266,7 +1266,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_bbcearth_hd1/default/in
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="158" group-title="TV",rock_entertainment
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="158" group-title="TV",rock_entertainment
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1343,7 +1343,7 @@ https://qp-pldt-live-bpk-13-prod.akamaized.net/bpk-tv/dr_rockentertainment/defau
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="160" group-title="TV",tap tv
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="160" group-title="TV",tap tv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001149/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -1364,7 +1364,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001149/manifest.mpd?JITPDRMType=Wi
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="161" group-title="TV",thrill
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="161" group-title="TV",thrill
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1378,7 +1378,7 @@ https://qp-pldt-live-bpk-06-prod.akamaized.net/bpk-tv/cg_thrill_sd/default1/inde
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="162" group-title="TV",Crime + Investigation
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="162" group-title="TV",Crime + Investigation
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1388,7 +1388,7 @@ https://qp-pldt-live-bpk-12-prod.akamaized.net/bpk-tv/dr_crime_invest/default1/i
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/OnePHCignal.svg/800px-OnePHCignal.svg.png" ch-number="012" group-title="TV",One PH
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/OnePHCignal.svg/800px-OnePHCignal.svg.png" ch-number="012" group-title="TV",One PH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1397,35 +1397,35 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://i.imgur.com/Bcu69bU.png" ch-number="026" group-title="TV",ANC
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Bcu69bU.png" ch-number="026" group-title="TV",ANC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001274/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/DZMM_630_2025.svg/1280px-DZMM_630_2025.svg.png" ch-number="025" group-title="TV",DZMM Radyo Patrol 630
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/DZMM_630_2025.svg/1280px-DZMM_630_2025.svg.png" ch-number="025" group-title="TV",DZMM Radyo Patrol 630
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001249/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Africanews._alternative_logo_2016.png" ch-number="173" group-title="TV",Africanews
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Africanews._alternative_logo_2016.png" ch-number="173" group-title="TV",Africanews
 https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="174" group-title="TV",CBC News
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="174" group-title="TV",CBC News
 https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="176" group-title="TV",CNBC US
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="176" group-title="TV",CNBC US
 http://fl2.moveonjoy.com/CNBC/index.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/200px-FRANCE_24_logo.svg.png" ch-number="177" group-title="TV",France24
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/200px-FRANCE_24_logo.svg.png" ch-number="177" group-title="TV",France24
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001157/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="178" group-title="TV",Bloomberg
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="178" group-title="TV",Bloomberg
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1438,27 +1438,27 @@ https://qp-pldt-live-bpk-09-prod.akamaized.net/bpk-tv/bloomberg_sd/default1/inde
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/ABC_News_2024.svg/220px-ABC_News_2024.svg.png" ch-number="183" group-title="TV",ABC News (Australia)  
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/ABC_News_2024.svg/220px-ABC_News_2024.svg.png" ch-number="183" group-title="TV",ABC News (Australia)  
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8   
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="184" group-title="TV",ABC Australia
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="184" group-title="TV",ABC Australia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001111/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="185" group-title="TV",NHK World Japan
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="185" group-title="TV",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="186" group-title="TV",Bloomberg TV Asia
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="186" group-title="TV",Bloomberg TV Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CNN_Indonesia_logo_%282023%29.svg/200px-CNN_Indonesia_logo_%282023%29.svg.png" ch-number="195" group-title="TV",CNN Indonesia 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CNN_Indonesia_logo_%282023%29.svg/200px-CNN_Indonesia_logo_%282023%29.svg.png" ch-number="195" group-title="TV",CNN Indonesia 
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="125" group-title="TV",UAAP Varsity Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="125" group-title="TV",UAAP Varsity Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1470,16 +1470,16 @@ https://qp-pldt-live-bpk-04-prod.akamaized.net/bpk-tv/cg_uaap_cplay_sd/default1/
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="131" group-title="TV",BeIN Sports XTRA
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="131" group-title="TV",BeIN Sports XTRA
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cb932046-e001-4189-a871-1376aa2ec340
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="132" group-title="TV",Fox Sports 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="132" group-title="TV",Fox Sports 1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="133" group-title="TV",NFL Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="133" group-title="TV",NFL Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/NBA_TV_Philippines_2024.svg" ch-number="134" group-title="TV",NBA TV Philippines
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/NBA_TV_Philippines_2024.svg" ch-number="134" group-title="TV",NBA TV Philippines
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1487,17 +1487,17 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="136" group-title="TV",NHL Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="136" group-title="TV",NHL Network
 https://tvpass.org/live/NHLNetwork/sd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="137" group-title="TV",MLB Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="137" group-title="TV",MLB Network
 https://tvpass.org/live/MLBNetwork/sd
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="340" group-title="TV",CGNTV Chinese
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="340" group-title="TV",CGNTV Chinese
 https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" ch-number="139" group-title="TV",NBA TV Philippines
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" ch-number="139" group-title="TV",NBA TV Philippines
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001064/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -1506,16 +1506,16 @@ http://161.49.17.2:6610/001/2/ch00000090990000001064/manifest.mpd?JITPDRMType=Wi
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="211" group-title="TV",GREAT! action
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="211" group-title="TV",GREAT! action
 http://51.155.140.255:55555/GREAT!%20action
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="212" group-title="TV",OWN
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="212" group-title="TV",OWN
 http://fl2.moveonjoy.com/OWN/index.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="213" group-title="TV",ShowTime
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="213" group-title="TV",ShowTime
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="214" group-title="TV",Starz Encore Action
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="214" group-title="TV",Starz Encore Action
 http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 
 
@@ -1525,49 +1525,49 @@ http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001127/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="215" group-title="TV",FXX
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="215" group-title="TV",FXX
 http://fl2.moveonjoy.com/FXX/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="216" group-title="TV",E!
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="216" group-title="TV",E!
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="250" group-title="TV",TBK 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="250" group-title="TV",TBK 1
 http://123.31.36.68/live.m3u8?c=vstv360&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="251" group-title="TV",Ca Mau TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="251" group-title="TV",Ca Mau TV
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="252" group-title="TV",Dong Nai 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="252" group-title="TV",Dong Nai 1
 http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="254" group-title="TV",TVE Internacional Asia-Oceania [Geo-blocked]
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="254" group-title="TV",TVE Internacional Asia-Oceania [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/200px-TV_Land_2015_logo.svg.png" ch-number="217" group-title="TV",TVLand
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/200px-TV_Land_2015_logo.svg.png" ch-number="217" group-title="TV",TVLand
 http://fl2.moveonjoy.com/TV_Land/index.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="218" group-title="TV",BET
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="218" group-title="TV",BET
 https://streamer1.nexgen.bz/BET/index.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="219" group-title="TV",Comedy Central US
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="219" group-title="TV",Comedy Central US
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a408bd341e000818fcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79b861-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bc03faa5-401f-4a68-9972-153b1f336cac
 
 
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="255" group-title="TV",Colors TV UK
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="255" group-title="TV",Colors TV UK
 http://defaultgen.com:3050/ronald.brooks128@gmail.com/NyLDkvwevj/508282
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/220px-Logo_of_the_Korean_Central_Television.svg.png" ch-number="256" group-title="TV",Korean Central Television (KCTV)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/220px-Logo_of_the_Korean_Central_Television.svg.png" ch-number="256" group-title="TV",Korean Central Television (KCTV)
 https://tv.nknews.org/tvdash/stream.mpd
 
 
@@ -1575,7 +1575,7 @@ https://tv.nknews.org/tvdash/stream.mpd
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="257" group-title="TV",AfroSport Nigeria
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="257" group-title="TV",AfroSport Nigeria
 https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
 
 
@@ -1615,7 +1615,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 #EXTINF:-1 tvg-id="mjh-abc-kids" tvg-name="" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/ABC_Kids_%282020%29.png/200px-ABC_Kids_%282020%29.png" ch-number="228" group-title="TV",ABC KIDS AUSTRALIA
 https://c.mjh.nz/abc-kids.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://www.pngmart.com/files/23/Nfl-Logo-PNG-Transparent.png" ch-number="229" group-title="TV",NFL
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngmart.com/files/23/Nfl-Logo-PNG-Transparent.png" ch-number="229" group-title="TV",NFL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -1633,23 +1633,23 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/m
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="232" group-title="TV",TNT SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="232" group-title="TV",TNT SPORTS 1
 https://wowza5.leisertv.com/live/btsports1hd.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="233" group-title="TV",TNT SPORTS 2 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="233" group-title="TV",TNT SPORTS 2 
 https://wowza5.leisertv.com/live/btsports2hd.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="234" group-title="TV",TNT SPORTS 3 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="234" group-title="TV",TNT SPORTS 3 
 https://wowza5.leisertv.com/live/btsports3hd.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="235" group-title="TV",TNT SPORTS 4 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="235" group-title="TV",TNT SPORTS 4 
 (empty)
 
 
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo=""  tvg-logo="https://i.imgur.com/zZWj5vn.png" ch-number="260" group-title="TV",TFC HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png"  tvg-logo="https://i.imgur.com/zZWj5vn.png" ch-number="260" group-title="TV",TFC HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
@@ -1661,57 +1661,57 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnon
 #KODIPROP:inputstream.adaptive.license_key=50c699c444e5f80dacafc4c99667d810:de6c5feaae5f6963b4b392ddc8b6a778
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default.mpd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-name=""   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_(2022).svg/1200px-PBS_Kids_logo_(2022).svg.png?20220814214903" ch-number="045" group-title="TV",PBS Kids Asia
+#EXTINF:-1 tvg-id="" tvg-name=""   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_(2022).svg/1200px-PBS_Kids_logo_(2022).svg.png?20220814214903" ch-number="045" group-title="TV",PBS Kids Asia
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="301" group-title="TV",Al Hayat TV (Israel)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="301" group-title="TV",Al Hayat TV (Israel)
 http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="302" group-title="TV",Alforat (Israel)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="302" group-title="TV",Alforat (Israel)
 http://95.216.180.111:1935/live/10/playlist.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="303" group-title="TV",I24 News Channel (Arabic) (Israel)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="303" group-title="TV",I24 News Channel (Arabic) (Israel)
 https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="304" group-title="TV",Abu Dhabi Sports 1 (Saudi Arabia)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="304" group-title="TV",Abu Dhabi Sports 1 (Saudi Arabia)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="305" group-title="TV",DW Arabic (MENA)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="305" group-title="TV",DW Arabic (MENA)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="044" group-title="TV",MBC 3 (Saudi Arabia)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="044" group-title="TV",MBC 3 (Saudi Arabia)
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="306" group-title="TV",MBC 4 (Saudi Arabia)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="306" group-title="TV",MBC 4 (Saudi Arabia)
 https://shls-masr-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="307" group-title="TV",MBC Bollywood (Saudi Arabia)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="307" group-title="TV",MBC Bollywood (Saudi Arabia)
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="308" group-title="TV",Sky News Arabia (Saudi Arabia)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="308" group-title="TV",Sky News Arabia (Saudi Arabia)
 https://ythls.armelin.one/channel/UCIJXOvggjKtCagMfxvcCzAA.m3u8
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="309" group-title="TV",Action 24 (Greece)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="309" group-title="TV",Action 24 (Greece)
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="310" group-title="TV",AXN (Spanish)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="310" group-title="TV",AXN (Spanish)
 https://streamer1.nexgen.bz/AXN/index.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="090" group-title="TV",Classic Movies Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="090" group-title="TV",Classic Movies Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e000-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7f04239-fee6-40d2-9e5e-6893a6d330ec
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="250" group-title="TV",Paramount Network US
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="250" group-title="TV",Paramount Network US
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="238" group-title="TV",NBC SPORTS
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="238" group-title="TV",NBC SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1719,7 +1719,7 @@ http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="239" group-title="TV",UNIFI SPORTS 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="239" group-title="TV",UNIFI SPORTS 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
 https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227877/3221227877.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=pDVeBhPtc549NayvHFA0JHqiwYJ%2FKEP6UdMtjXIjIzrjYyGN4h5HPUHLEk%2FvL80xPjG9KTt82xXCdpGInMoKWMBLe9Ie9rQgSTZ%2FmsUArMht5J0dsgfU28LWZM15p3G2%3A20221124103114%3AUTC%2C10001002142071%2C115.164.56.153%2C20221124103114%2Curn:Huawei:liveTV:XTV54185493%2C10001002142071%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000104188313%2C0%2C10000103564441%2C798506651%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.168_80&hms_devid=1785&mag_hms=1785,1793,1786,1788&it=H4sIAAAAAAAAA0XMQQvCIBiA4X_jUdTPJjt4KoIuEqy6xqd-ycBN0jXo38ci6P4-71Ix0OlgwQtjAoAG2mlJvqe-wwCx0xCVNoE1erpigQXMeZyTK3Fjt2F_l4ILrpTkUrHLtjtmTFZ9S_eaPNU_G6iuYyAb24Ov2DimVCnhMpaZnzO-rzX_kg9sQKxomQAAAA
@@ -1728,7 +1728,7 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227877/32
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="241" group-title="TV",PTV Sports
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="241" group-title="TV",PTV Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ecad6c4413f8bdc54712ce6c072a2cf:442df559c369bdada8ba3abe97811575
 https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd
@@ -1748,48 +1748,48 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="323" group-title="TV",Action!!!
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="323" group-title="TV",Action!!!
 https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="324" group-title="TV",ACTION HOLLYWOOD MOVIES
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="324" group-title="TV",ACTION HOLLYWOOD MOVIES
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="135" group-title="TV",NBA TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="135" group-title="TV",NBA TV
 https://tvpass.org/live/NBATV/sd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="326" group-title="TV",The Weather Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="326" group-title="TV",The Weather Channel
 http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/180px-ABC_Entertains_logo.svg.png" ch-number="327" group-title="TV",ABC Entertains
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/180px-ABC_Entertains_logo.svg.png" ch-number="327" group-title="TV",ABC Entertains
 https://c.mjh.nz/abc-me.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/HLNLogo2023.svg/1920px-HLNLogo2023.svg.png" ch-number="328" group-title="TV",HLN
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/HLNLogo2023.svg/1920px-HLNLogo2023.svg.png" ch-number="328" group-title="TV",HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://i.imgur.com/CQxCJbf.png" ch-number="329" group-title="TV",VH1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CQxCJbf.png" ch-number="329" group-title="TV",VH1
 http://fl2.moveonjoy.com/VH1/index.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="330" group-title="TV",FX Movie Retro
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="330" group-title="TV",FX Movie Retro
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="331" group-title="TV",Cartoon Network Turkey
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="331" group-title="TV",Cartoon Network Turkey
 https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/800px-Logo_TVE-24h.svg.png" ch-number="332" group-title="TV",24 Horas
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/800px-Logo_TVE-24h.svg.png" ch-number="332" group-title="TV",24 Horas
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/250px-Logo_TV5_Monde_-_2021.svg.png" ch-number="167" group-title="TV",TV5Monde Asie
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/250px-Logo_TV5_Monde_-_2021.svg.png" ch-number="167" group-title="TV",TV5Monde Asie
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fba5a720b4a541b286552899ba86e38b:f63fa50423148bfcbaa58c91dfcffd0e
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tv5_monde/default/index.mpd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/250px-Logo_TV5_Monde_-_2021.svg.png" ch-number="168" group-title="TV",TV5Monde Pacifique
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/250px-Logo_TV5_Monde_-_2021.svg.png" ch-number="168" group-title="TV",TV5Monde Pacifique
 https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 
 
@@ -1799,49 +1799,49 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/200px-Food_Network_logo.svg.png" ch-number="354" group-title="TV",Food Network US
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/200px-Food_Network_logo.svg.png" ch-number="354" group-title="TV",Food Network US
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="355" group-title="TV",ABC TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="355" group-title="TV",ABC TV
 https://c.mjh.nz/abc-nsw.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="356" group-title="TV",Channel 44
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="356" group-title="TV",Channel 44
 https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="237" group-title="TV",NBC Golf Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="237" group-title="TV",NBC Golf Channel
 http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="357" group-title="TV",NBC
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="357" group-title="TV",NBC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=004561b5440b7879d37d01c99a158924:8fb0218456fedf3c8a3da8c88f6177c7
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(wnbc)/master.mpd?c3.ri=11703857217482778336
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="022" group-title="TV",MYX
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="022" group-title="TV",MYX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.111:6610/001/2/ch00000090990000001252/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://i.imgur.com/8TC2ocj.png" ch-number="023" group-title="TV",Rock MNL
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8TC2ocj.png" ch-number="023" group-title="TV",Rock MNL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001177/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Solar_Sports_Logo_2024.png" ch-number="030" group-title="TV",Solar Sports
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Solar_Sports_Logo_2024.png" ch-number="030" group-title="TV",Solar Sports
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001081/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/SMNI_News_Channel.webp/512px-SMNI_News_Channel.webp.png" ch-number="038" group-title="TV",SMNI News Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/SMNI_News_Channel.webp/512px-SMNI_News_Channel.webp.png" ch-number="038" group-title="TV",SMNI News Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001155/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="" group-title="TV",
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="" group-title="TV",
 
 
 
@@ -1858,10 +1858,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://en.wikipedia.org/wiki/File:MBC_1_Logo.svg" ch-number="300" group-title="TV",MBC 1 (Saudi Arabia)
+#EXTINF:-1 tvg-id="" tvg-logo="https://en.wikipedia.org/wiki/File:MBC_1_Logo.svg" ch-number="300" group-title="TV",MBC 1 (Saudi Arabia)
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://raw.githubusercontent.com/Rocsondaboss/Radio-channels/refs/heads/main/channel%20logos/bombo%20radyo.png" ch-number="800" group-title="Radio",Bombo Radyo Iloilo
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Rocsondaboss/Radio-channels/refs/heads/main/channel%20logos/bombo%20radyo.png" ch-number="800" group-title="Radio",Bombo Radyo Iloilo
 https://stream.zenolive.com/gzudz59nz9duv
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Love_Radio_%28Philippine_radio_station%29_logo.png/125px-Love_adio_%28Philippine_radio_station%29_logo.png" ch-number="801" group-title="Radio",LOVE RADIO MANILA
@@ -1869,10 +1869,10 @@ https://stream.zenolive.com/gzudz59nz9duv
 #KODIPROP:inputstream.adaptive.license_key=645a11b3343f3c5c6b90c532
 https://playerserices.streamtheworld.com/api/livestream-redirect/LOVERADIO_MNL.mp3
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://mmo.aiircdn.com/186/653144d668cda.png" ch-number="802" group-title="Radio",105.1 WKCE
+#EXTINF:-1 tvg-id="" tvg-logo="https://mmo.aiircdn.com/186/653144d668cda.png" ch-number="802" group-title="Radio",105.1 WKCE
 https://stream.radiojar.com/q04ksted22quv
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="803" group-title="Radio",Antenne Bayern Oldies
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="803" group-title="Radio",Antenne Bayern Oldies
 http://stream.antenne.de/oldies-but-goldies/stream/aacp
 
 
@@ -1880,12 +1880,12 @@ http://stream.antenne.de/oldies-but-goldies/stream/aacp
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8'
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/ALLTV2_Logo_2024.svg/1920px-ALLTV2_Logo_2024.svg.png" ch-number="035" group-title="TV",ALLTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/ALLTV2_Logo_2024.svg/1920px-ALLTV2_Logo_2024.svg.png" ch-number="035" group-title="TV",ALLTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001179/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="362" group-title="TV",Asian Crush
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="362" group-title="TV",Asian Crush
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
 
 
@@ -1901,45 +1901,45 @@ https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/am
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Jeepney_TV_Logo_2015.svg/1024px-Jeepney_TV_Logo_2015.svg.png" ch-number="039" group-title="TV",Jeepney TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Jeepney_TV_Logo_2015.svg/1024px-Jeepney_TV_Logo_2015.svg.png" ch-number="039" group-title="TV",Jeepney TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.113:6610/001/2/ch00000090990000001250/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/220px-GTV_Philippines_Logo_Vector.svg.png" ch-number="011" group-title="TV",GTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/220px-GTV_Philippines_Logo_Vector.svg.png" ch-number="011" group-title="TV",GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001143/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/TAP_Edge_logo.png" ch-number="389" group-title="TV",TAP EDGE
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/TAP_Edge_logo.png" ch-number="389" group-title="TV",TAP EDGE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001150/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="390" group-title="TV",STAR
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="390" group-title="TV",STAR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001202/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="170" group-title="TV",CCTV 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="170" group-title="TV",CCTV 4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001223/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Net_25_Logo_2023.webp/570px-Net_25_Logo_2023.webp.png" ch-number="014" group-title="TV",NET25
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Net_25_Logo_2023.webp/570px-Net_25_Logo_2023.webp.png" ch-number="014" group-title="TV",NET25
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.111:6610/001/2/ch00000090990000001090/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Screenshot_2019-08-30_at_5.25.09_PM.png" ch-number="028" group-title="TV",RJTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Screenshot_2019-08-30_at_5.25.09_PM.png" ch-number="028" group-title="TV",RJTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001159/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/PBA_Rush_logo.png/220px-PBA_Rush_logo.png" ch-number="029" group-title="TV",PBA Rush HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/PBA_Rush_logo.png/220px-PBA_Rush_logo.png" ch-number="029" group-title="TV",PBA Rush HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1947,12 +1947,12 @@ http://161.49.17.2:6610/001/2/ch00000090990000001159/manifest.mpd?JITPDRMType=Wi
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/index.mpd
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SolarFlix_%282022%29_logo_%28fixed-updated%29.svg/1920px-SolarFlix_%282022%29_logo_%28fixed-updated%29.svg.png" ch-number="037" group-title="TV",SolarFlix
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SolarFlix_%282022%29_logo_%28fixed-updated%29.svg/1920px-SolarFlix_%282022%29_logo_%28fixed-updated%29.svg.png" ch-number="037" group-title="TV",SolarFlix
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.111:6610/001/2/ch00000090990000001243/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="391" group-title="TV",TLC Asia
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="391" group-title="TV",TLC Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001181/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -1960,22 +1960,22 @@ http://161.49.17.2:6610/001/2/ch00000090990000001181/manifest.mpd?JITPDRMType=Wi
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="392" group-title="TV",Radyo Bandido TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="392" group-title="TV",Radyo Bandido TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001338/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="163" group-title="TV",Discovery Asia
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="163" group-title="TV",Discovery Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001334/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="164" group-title="TV",Motorvision+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="164" group-title="TV",Motorvision+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001245/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="165" group-title="TV",SLA Junior
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="165" group-title="TV",SLA Junior
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001324/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -1993,29 +1993,29 @@ http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?JITPDRMType=Wi
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="342" group-title="TV",Da Ai 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="342" group-title="TV",Da Ai 2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="343" group-title="TV",TVBS Asia
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="343" group-title="TV",TVBS Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="358" group-title="TV",Sky News Arabia
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="358" group-title="TV",Sky News Arabia
 https://stream.skynewsarabia.com/ott/ott.m3u8
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="359" group-title="TV",CNBC Arabiya
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="359" group-title="TV",CNBC Arabiya
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MTV_Live.svg/800px-MTV_Live.svg.png" ch-number="360" group-title="TV",MTV Live
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MTV_Live.svg/800px-MTV_Live.svg.png" ch-number="360" group-title="TV",MTV Live
 http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 
 
 
-#EXTINF:-1 group-title="TV" tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://i.imgur.com/3BCg3pS.png" ch-number="092",Movies Now
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://i.imgur.com/3BCg3pS.png" ch-number="092",Movies Now
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
@@ -2023,65 +2023,65 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="093" group-title="TV",
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Star_Movies_2023.svg" ch-number="093" group-title="TV",Star Movies Balkans (Croatian)
+https://webtvstream.bhtelecom.ba/hls18/star_movies_1200.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="094" group-title="TV",
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="094" group-title="TV",
 
-
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Disney_Channel_text_logo_%282024%29.svg/1280px-Disney_Channel_text_logo_%282024%29.svg.png" ch-number="376" group-title="TV",Disney Channel East
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Disney_Channel_text_logo_%282024%29.svg/1280px-Disney_Channel_text_logo_%282024%29.svg.png" ch-number="376" group-title="TV",Disney Channel East
 https://tvpass.org/live/DisneyChannelEast/hd
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="378" group-title="TV",Love Nature 4K
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="378" group-title="TV",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/1920px-Newsmax_logo.svg.png" ch-number="193" group-title="TV",Newsmax
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/1920px-Newsmax_logo.svg.png" ch-number="193" group-title="TV",Newsmax
 https://1a-1791.com/live/qt9k24wa/slot-68/vxdb-dfxw_720p/chunklist_DVR.m3u8
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png" ch-number="196" group-title="TV",RT (SD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png" ch-number="196" group-title="TV",RT (SD)
 https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_360p/chunklist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="804" group-title="Radio",Oldies 104 - Streaming Your Favorites! - A Star104.net Station
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="804" group-title="Radio",Oldies 104 - Streaming Your Favorites! - A Star104.net Station
 http://hestia2.cdnstream.com:80/1076_128
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="805" group-title="Radio",Oldies
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="805" group-title="Radio",Oldies
 https://stream.laut.fm/oldoldies?ref=radiode
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="806" group-title="Radio",Oldies 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="806" group-title="Radio",Oldies 2
 https://1a-oldies.radionetz.de/1a-oldies.mp3
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="807" group-title="Radio",POWERHITZ.com
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="807" group-title="Radio",POWERHITZ.com
 http://powerhitz.powerhitz.com:7000
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="808" group-title="Radio",KBFM
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="808" group-title="Radio",KBFM
 http://stream.revma.ihrhls.com/zc2317
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="809" group-title="Radio",Got Radio - Top 40
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="809" group-title="Radio",Got Radio - Top 40
 http://pureplay.cdnstream1.com/6024_64.aac
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="379" group-title="TV",J Sports 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="379" group-title="TV",J Sports 1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=4
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="380" group-title="TV",J Sports 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="380" group-title="TV",J Sports 2
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=4
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="381" group-title="TV",J Sports 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="381" group-title="TV",J Sports 3
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=4
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="382" group-title="TV",J Sports 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="382" group-title="TV",J Sports 4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=4
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="383" group-title="TV",BS10
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="383" group-title="TV",BS10
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=4
 
 
@@ -2090,16 +2090,16 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=4
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="385" group-title="TV",CCTV-13 A
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="385" group-title="TV",CCTV-13 A
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="117" group-title="TV",Living Asia Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="117" group-title="TV",Living Asia Channel
 #KODIPROP:inputstream.adaptive.license_type=
 #KODIPROP:inputstream.adaptive.license_key=
 http://161.49.17.2:6610/001/2/ch00000090990000001154/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com  
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="900" group-title="TV",Polsat Jimjam
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="900" group-title="TV",Polsat Jimjam
 https://tvcdn.tv.telia.lt/live/eds/JimJam/DASH_5_CPIX_NPVR/JimJam.mpd
 #KODIPROP:inputstream.adaptive.license_type=
 #KODIPROP:inputstream.adaptive.license_key=d3b2f20862fa7f361fc703d8b9bcd340:f849ca1496a4c3eca2394628c08493d1
@@ -2109,48 +2109,48 @@ https://tvcdn.tv.telia.lt/live/eds/JimJam/DASH_5_CPIX_NPVR/JimJam.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="SONY MAX.in" tvg-name="SONY MAX.in" tvg-logo="" ch-number="400 " group-title="TV", Sony MAX
+#EXTINF:-1 tvg-id="SONY MAX.in" tvg-name="SONY MAX.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="400 " group-title="TV", Sony MAX
 https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="197" group-title="TV",USA Today
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="197" group-title="TV",USA Today
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001199/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="198" group-title="TV",CTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="198" group-title="TV",CTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001164/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="https://d780yzv2avs7v6.archive.fo/mClXD/8d1d1c4b364acb7bd1eb0bebe05a6f33d03774c1.webp" ch-number="393" group-title="TV",Zee Action
+#EXTINF:-1 tvg-id="" tvg-logo="https://d780yzv2avs7v6.archive.fo/mClXD/8d1d1c4b364acb7bd1eb0bebe05a6f33d03774c1.webp" ch-number="393" group-title="TV",Zee Action
 http://103.86.135.164:9981/stream/channelid/214022172?ticket=699FFF5FB295BF8CA98CEE50340456FE8E935590&profile=pass
 
 
 
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="121" group-title="TV",ONE ASIA HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="121" group-title="TV",ONE ASIA HD
 http://122.53.222.9:9981/stream/channelid/1547321769?profile=pass
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="394" group-title="TV",MBC PERSIA HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="394" group-title="TV",MBC PERSIA HD
 (empty)
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="" group-title="TV",Disney Jr. India
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="" group-title="TV",Disney Jr. India
 https://live.dinesh29.com.np/stream/jiotvplus/disneyjunior/master.m3u8
 
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="" group-title="TV",
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="" group-title="TV",
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="" group-title="TV",
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="" group-title="TV",
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="" group-title="TV",
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="" group-title="TV",
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="" group-title="TV",
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="" group-title="TV",
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="" group-title="TV",
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="" group-title="TV",
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="" group-title="TV",
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="" group-title="TV",
 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" tvg-logo="" ch-number="" group-title="TV",
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="" group-title="TV",
