@@ -2025,13 +2025,15 @@ http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="093" group-title="TV",&flix HD
+http://66.102.120.18:8000/play/a022/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="094" group-title="TV",STAR Movies HD
+http://66.102.120.18:8000/play/a021/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Star_Movies_2023.svg" ch-number="093" group-title="TV",Star Movies Balkans (Croatian)
-https://webtvstream.bhtelecom.ba/hls18/star_movies_1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="095" group-title="TV",STAR Movies Select HD
+http://66.102.120.18:8000/play/a020/index.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="094" group-title="TV",
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Disney_Channel_text_logo_%282024%29.svg/1280px-Disney_Channel_text_logo_%282024%29.svg.png" ch-number="376" group-title="TV",Disney Channel East
@@ -2145,11 +2147,7 @@ http://122.53.222.9:9981/stream/channelid/1547321769?profile=pass
 https://live.dinesh29.com.np/stream/jiotvplus/disneyjunior/master.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="" group-title="TV",
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="" group-title="TV",
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="" group-title="TV",
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="" group-title="TV",
 
