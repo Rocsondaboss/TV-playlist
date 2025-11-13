@@ -2155,6 +2155,8 @@ https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="" group-title="TV",Prima Krimi
 http://188.26.24.7:9000/play/a0rs/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="" group-title="TV",
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="" group-title="TV",4 UK
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="" group-title="TV",
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="" group-title="TV",5 UK
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
