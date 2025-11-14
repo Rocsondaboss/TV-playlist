@@ -2160,3 +2160,6 @@ https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="" group-title="TV",5 UK
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="" group-title="TV",Star Gold Thrills
+http://38.76.152.22:8000/play/a00c/index.m3u8
