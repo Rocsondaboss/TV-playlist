@@ -228,9 +228,11 @@ http://161.49.17.2:6610/001/2/ch00000090990000001337/manifest.mpd?JITPDRMType=Wi
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iWFLiYM.png" ch-number="067" group-title="TV",Celestial Classic Movies (CCM)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.111:6610/001/2/ch00000090990000001244/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a642dd4bf3ea782e19202adefb604b10:3f59355e15eed1bb219ea1687d55cfbb
+https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/Tmc2021logo.png" ch-number="020" group-title="TV",TMC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
