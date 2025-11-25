@@ -2147,7 +2147,19 @@ http://122.53.222.9:9981/stream/channelid/1547321769?profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="394" group-title="TV",MBC PERSIA HD
 (empty)
 
+#EXTINF:-1 group-title="World TV" tvg-id="901" tvg-logo="http://apkip.tv/logos/Canada/DisneyChannel.ca.png",RTE One
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=575e49ee6270de247bb5f814a98a6b2b:ac3d5c349891dba83977f967402e117c
+https://live.rte.ie/live/b/vc11/vc11.isml/manifest.mpd   
 
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" ch-number="902" group-title="TV",RTÉ 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
+https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd    
 
 
 
