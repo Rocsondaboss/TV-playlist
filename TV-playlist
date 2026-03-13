@@ -1351,9 +1351,16 @@ https://bbb.exoadash.com/TVD3336/index.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" channel-number="" group-title="TV",
-#EXTINF:-1 tvg-id="" tvg-name="" channel-number="" group-title="TV",
-#EXTINF:-1 tvg-id="" tvg-name="" channel-number="" group-title="TV",
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="258" group-title="TV",BeIN Movies 1 (Premiere)
+https://bbb.exoadash.com/TVD4017/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="259" group-title="TV",BeIN Movies 2 (Action)
+https://bbb.exoadash.com/TVD4018/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="260" group-title="TV",BeIN Movies 4 (Family)
+https://bbb.exoadash.com/TVD4030/index.mpd
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" channel-number="" group-title="TV",
 #EXTINF:-1 tvg-id="" tvg-name="" channel-number="" group-title="TV",
 #EXTINF:-1 tvg-id="" tvg-name="" channel-number="" group-title="TV",
