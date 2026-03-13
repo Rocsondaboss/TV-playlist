@@ -1301,3 +1301,63 @@ https://tvpass.org/live/MoreMaxEast/sd
 #EXTINF:-1 tvg-id="moviemax-max-6-east" tvg-name="MovieMax (Max 6) East" channel-number="242" group-title="TV",MovieMax (Max 6) East
 https://tvpass.org/live/MovieMaxEast/sd
 
+****** ******
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="243" group-title="TV",MBC 2
+https://bbb.exoadash.com/TVD1008/index.mpd 
+
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="244" group-title="TV",MBC+ Variety
+https://bbb.exoadash.com/TVD1020/index.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="245" group-title="TV",MBC Action
+https://bbb.exoadash.com/TVD1016/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="246" group-title="TV",MBC Max
+https://bbb.exoadash.com/TVD1015/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="247" group-title="TV",OSN TV Comedy
+https://bbb.exoadash.com/TVD1354/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="248" group-title="TV",Film Thriller
+https://bbb.exoadash.com/TVD4971/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="249" group-title="TV",FilmBox Action
+https://bbb.exoadash.com/TVD3300/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="250" group-title="TV",Film Autor
+https://bbb.exoadash.com/TVD4957/index.mpd
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="251" group-title="TV",OSN TV Showcase
+https://bbb.exoadash.com/TVD1341/index.mpd 
+
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="252" group-title="TV",OSN TV Movie Action Channel
+https://bbb.exoadash.com/TVD1339/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="253" group-title="TV",OSN TV Movie Premiere Channel
+https://bbb.exoadash.com/TVD1338/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="254" group-title="TV",FilmBox Premium HD
+https://bbb.exoadash.com/TVD3303/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="255" group-title="TV",OSN TV Movie Hollywood
+https://bbb.exoadash.com/TVD1350/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="256" group-title="TV",OSN TV Now
+https://bbb.exoadash.com/TVD1349/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="257" group-title="TV",Cinemax 2 Central Europe
+https://bbb.exoadash.com/TVD3336/index.mpd 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="" group-title="TV",
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="" group-title="TV",
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="" group-title="TV",
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="" group-title="TV",
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="" group-title="TV",
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="" group-title="TV",
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="" group-title="TV",
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="" group-title="TV",
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="" group-title="TV",
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="" group-title="TV",
