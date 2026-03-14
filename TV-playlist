@@ -1378,7 +1378,9 @@ https://bbb.exoadash.com/TVD6211/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" channel-number="265" group-title="TV",Cinemax CEE (Polish)
 https://bbb.exoadash.com/TVD6409/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" channel-number="" group-title="TV",
+#EXTINF:-1 tvg-id="" tvg-name="" channel-number="266" group-title="TV",Sky News
+https://bbb.exoadash.com/TVD1334/index.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="" channel-number="" group-title="TV",
 
 #EXTINF:-1 tvg-id="" tvg-name="" channel-number="" group-title="TV",
