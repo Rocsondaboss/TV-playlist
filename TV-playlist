@@ -1274,6 +1274,14 @@ http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1356718
 #EXTINF:-1 tvg-id="" tvg-name="AR| BEIN ACTION 2 HD" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINACTION2.png" group-title="AR| BEIN ENTERTAINMENT",AR| BEIN ACTION 2 HD
 http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1141582
 
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN STAR MOVIES HD" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINSTARMOVIES.png" group-title="AR| BEIN ENTERTAINMENT",AR| BEIN STAR MOVIES HD
+http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1356722
+
+#EXTINF:-1 tvg-id="" tvg-name="ENGLISH| STAR SELECT MOV" tvg-logo="http://103.176.90.118/picons/logos/STAR-MOVIES-SELECT-HD.jpg" group-title="ASIA | ENGLISH",ENGLISH| STAR SELECT MOV
+http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1116489
+
+#EXTINF:-1 tvg-id="MNX.in" tvg-name="HINDI| MNX FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/MNX.png" group-title="ASIA | INDIA MOVIES",HINDI| MNX FHD
+http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/156021
 
 
 
