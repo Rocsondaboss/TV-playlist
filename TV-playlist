@@ -1259,115 +1259,20 @@ http://supersonictv.live:8080/611366/682256/22124
 http://supersonictv.live:8080/611366/682256/22125
 
 **********Argon**********
-
-
-#EXTINF:-1 tvg-id="" tvg-name="US| CINEMAX HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45597.png" group-title="US| MOVIES NETWORK",US| CINEMAX HD
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/45597
-#EXTINF:-1 tvg-id="US| CINEMAX EAST HD" tvg-name="US| CINEMAX EAST HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45598.png" group-title="US| MOVIES NETWORK",US| CINEMAX EAST HD
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/45598
-#EXTINF:-1 tvg-id="US-Cinemax - Pacific Feed" tvg-name="US| CINEMAX WEST HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45594.png" group-title="US| MOVIES NETWORK",US| CINEMAX WEST HD
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/45594
-#EXTINF:-1 tvg-id="ACMAXHD ActionMAX HD" tvg-name="US| CINEMAX ACTION EAST HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45599.png" group-title="US| MOVIES NETWORK",US| CINEMAX ACTION EAST HD
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/45599
-#EXTINF:-1 tvg-id="US| CINEMAX MOREMAX HD" tvg-name="US| CINEMAX MOREMAX HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45596.png" group-title="US| MOVIES NETWORK",US| CINEMAX MOREMAX HD
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/45596
-#EXTINF:-1 tvg-id="us.ThrillerMax - East" tvg-name="US| CINEMAX THRILLERMAX HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45595.png" group-title="US| MOVIES NETWORK",US| CINEMAX THRILLERMAX HD
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/45595
-
-
-
-#EXTINF:-1 tvg-id="US-MGM HD (USA)" tvg-name="US| MGM+ HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45582.png" group-title="US| MOVIES NETWORK",US| MGM+ HD
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/45582
-#EXTINF:-1 tvg-id="MGMPlusHits.us" tvg-name="US| MGM+ HITS HD" tvg-logo="http://51.158.145.100/picons/logos/USA/90955.png" group-title="US| MOVIES NETWORK",US| MGM+ HITS HD
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/90955
-#EXTINF:-1 tvg-id="MGMPlusDriveIn.us" tvg-name="US| MGM+ DRIVE" tvg-logo="http://51.158.145.100/picons/logos/USA/90957.png" group-title="US| MOVIES NETWORK",US| MGM+ DRIVE
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/90957
-#EXTINF:-1 tvg-id="HBO.us" tvg-name="US| HBO HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45549.png" group-title="US| MOVIES NETWORK",US| HBO HD
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/45549
-#EXTINF:-1 tvg-id="US-HBO - Pacific Feed" tvg-name="US| HBO WEST HD" tvg-logo="http://51.158.145.100/picons/logos/USA/91884.png" group-title="US| MOVIES NETWORK",US| HBO WEST HD
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/91884
-#EXTINF:-1 tvg-id="HBO2.us" tvg-name="US| HBO 2 HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45552.png" group-title="US| MOVIES NETWORK",US| HBO 2 HD
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/45552
-#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="US| HBO ZONE HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45546.png" group-title="US| MOVIES NETWORK",US| HBO ZONE HD
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/45546
-#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="US| HBO COMEDY HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45551.png" group-title="US| MOVIES NETWORK",US| HBO COMEDY HD
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/45551
-#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="US| HBO FAMILY HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45550.png" group-title="US| MOVIES NETWORK",US| HBO FAMILY HD
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/45550
-#EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="US| HBO SIGNATURE HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45547.png" group-title="US| MOVIES NETWORK",US| HBO SIGNATURE HD
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/45547
-#EXTINF:-1 tvg-id="MoreMax.us" tvg-name="US| MOREMAX HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45538.png" group-title="US| MOVIES NETWORK",US| MOREMAX HD
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/45538
-#EXTINF:-1 tvg-id="MOVIEplex.us" tvg-name="US| MOVIEPLEX HD" tvg-logo="http://51.158.145.100/picons/logos/USA/45536.png" group-title="US| MOVIES NETWORK",US| MOVIEPLEX HD
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/45536
-#EXTINF:-1 tvg-id="WMEU4.us" tvg-name="US| MeTV" tvg-logo="http://51.158.145.100/picons/logos/USA/1069302.png" group-title="US| MOVIES NETWORK",US| MeTV
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1069302
-#EXTINF:-1 tvg-id="WMEU4.us" tvg-name="US| MeTV PLUS" tvg-logo="http://51.158.145.100/picons/logos/USA/1128914.png" group-title="US| MOVIES NETWORK",US| MeTV PLUS
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1128914
-#EXTINF:-1 tvg-id="" tvg-name="US| MeTV NETWORK EAST" tvg-logo="http://51.158.145.100/picons/logos/USA/1074480.png" group-title="US| MOVIES NETWORK",US| MeTV NETWORK EAST
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1074480
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PRIME| HBO 2 á´¿á´¬áµ‚" tvg-logo="http://51.158.145.100/picons/logos/USA/1920197.png" group-title="US| PRIME",PRIME| HBO 2 á´¿á´¬áµ‚
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1920197
-#EXTINF:-1 tvg-id="" tvg-name="PRIME| HBO BOXING á´¿á´¬áµ‚" tvg-logo="http://51.158.145.100/picons/logos/USA/1920196.png" group-title="US| PRIME",PRIME| HBO BOXING á´¿á´¬áµ‚
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1920196
-#EXTINF:-1 tvg-id="" tvg-name="PRIME| HBO COMEDY á´¿á´¬áµ‚" tvg-logo="http://51.158.145.100/picons/logos/USA/1920195.png" group-title="US| PRIME",PRIME| HBO COMEDY á´¿á´¬áµ‚
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1920195
-#EXTINF:-1 tvg-id="" tvg-name="PRIME| HBO LATINO á´¿á´¬áµ‚" tvg-logo="http://51.158.145.100/picons/logos/USA/1920193.png" group-title="US| PRIME",PRIME| HBO LATINO á´¿á´¬áµ‚
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1920193
-#EXTINF:-1 tvg-id="" tvg-name="PRIME| HBO SIGNATURE á´¿á´¬áµ‚" tvg-logo="http://51.158.145.100/picons/logos/USA/1920192.png" group-title="US| PRIME",PRIME| HBO SIGNATURE á´¿á´¬áµ‚
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1920192
-#EXTINF:-1 tvg-id="" tvg-name="PRIME| HBO WEST á´¿á´¬áµ‚" tvg-logo="http://51.158.145.100/picons/logos/USA/1920191.png" group-title="US| PRIME",PRIME| HBO WEST á´¿á´¬áµ‚
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1920191
-#EXTINF:-1 tvg-id="" tvg-name="PRIME| HBO ZONE á´¿á´¬áµ‚" tvg-logo="http://51.158.145.100/picons/logos/USA/1920190.png" group-title="US| PRIME",PRIME| HBO ZONE á´¿á´¬áµ‚
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1920190
-#EXTINF:-1 tvg-id="" tvg-name="PRIME| HBO á´¿á´¬áµ‚" tvg-logo="http://51.158.145.100/picons/logos/USA/1920189.png" group-title="US| PRIME",PRIME| HBO á´¿á´¬áµ‚
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1920189
-
-
-#EXTINF:-1 tvg-id="" tvg-name="CAR-HUB| HBO 2" tvg-logo="http://51.158.145.100/picons/logos/CARIBBEAN/HBO2.png" group-title="CRB| CARIBBEAN HUB",CAR-HUB| HBO 2
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/2031420
-#EXTINF:-1 tvg-id="" tvg-name="CAR-HUB| HBO LATIN AMERICA" tvg-logo="http://51.158.145.100/picons/logos/CARIBBEAN/HBOLATINAMERICA.png" group-title="CRB| CARIBBEAN HUB",CAR-HUB| HBO LATIN AMERICA
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/2031419
-#EXTINF:-1 tvg-id="" tvg-name="CAR-HUB| HBO MUNDI" tvg-logo="http://51.158.145.100/picons/logos/CARIBBEAN/HBOMUNDI.png" group-title="CRB| CARIBBEAN HUB",CAR-HUB| HBO MUNDI
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/2031418
-#EXTINF:-1 tvg-id="" tvg-name="CAR-HUB| HBO POP" tvg-logo="http://51.158.145.100/picons/logos/CARIBBEAN/HBOPOP.png" group-title="CRB| CARIBBEAN HUB",CAR-HUB| HBO POP
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/2031417
-#EXTINF:-1 tvg-id="" tvg-name="CAR-HUB| HBO XTREME" tvg-logo="http://51.158.145.100/picons/logos/CARIBBEAN/HBOXTREME.png" group-title="CRB| CARIBBEAN HUB",CAR-HUB| HBO XTREME
-http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/2031416
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="StarUtsavMovies.in" tvg-name="HINDI| STAR MOVIES FHD" tvg-logo="http://picons.cmshulk.com/picons/1112131.png" group-title="ASIA | INDIA MOVIES",HINDI| STAR MOVIES FHD
+http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1112131
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="HINDI| SONY PIX FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-PIX.png" group-title="ASIA | INDIA MOVIES",HINDI| SONY PIX FHD
+http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/156004
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN MOVIES 1 HD" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMOVIES1.png" group-title="AR| BEIN ENTERTAINMENT",AR| BEIN MOVIES 1 HD
+http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1356721
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN MOVIES 2 HD" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMOVIES2.png" group-title="AR| BEIN ENTERTAINMENT",AR| BEIN MOVIES 2 HD
+http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1356720
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN MOVIES 3 HD" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMOVIES3.png" group-title="AR| BEIN ENTERTAINMENT",AR| BEIN MOVIES 3 HD
+http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1356719
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN MOVIES 4 HD" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMOVIES4.png" group-title="AR| BEIN ENTERTAINMENT",AR| BEIN MOVIES 4 HD
+http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1356718
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN ACTION 2 HD" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINACTION2.png" group-title="AR| BEIN ENTERTAINMENT",AR| BEIN ACTION 2 HD
+http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1141582
 
 
 
