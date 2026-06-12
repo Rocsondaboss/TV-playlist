@@ -1284,15 +1284,44 @@ http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1116489
 http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/156021
 
 
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MARVEL 1" tvg-logo="http://103.176.90.95/images/924731.png" group-title="24/7 MOVIES & SERIES",US| 24/7 MARVEL 1
+http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/924731
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MARVEL 2" tvg-logo="http://103.176.90.95/images/924732.png" group-title="24/7 MOVIES & SERIES",US| 24/7 MARVEL 2
+http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/924732
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MARVEL 3" tvg-logo="http://103.176.90.95/images/924733.png" group-title="24/7 MOVIES & SERIES",US| 24/7 MARVEL 3
+http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/924733
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 MARVEL 4" tvg-logo="http://103.176.90.95/images/924734.png" group-title="24/7 MOVIES & SERIES",US| 24/7 MARVEL 4
+http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/924734
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 SCIFI MOVIES" tvg-logo="http://103.176.90.95/images/558770.png" group-title="24/7 MOVIES & SERIES",US| 24/7 SCIFI MOVIES
+http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/558770
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| FILMRISE ACTION á´¿á´¬áµ‚" tvg-logo="http://51.158.145.100/picons/logos/USA/1920265.png" group-title="US| PRIME",PRIME| FILMRISE ACTION á´¿á´¬áµ‚
+http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1920265
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| FILMRISE BLACK TV á´¿á´¬áµ‚" tvg-logo="http://51.158.145.100/picons/logos/USA/1920264.png" group-title="US| PRIME",PRIME| FILMRISE BLACK TV á´¿á´¬áµ‚
+http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1920264
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| FILMRISE BRITISH TV á´¿á´¬áµ‚" tvg-logo="http://51.158.145.100/picons/logos/USA/1920263.png" group-title="US| PRIME",PRIME| FILMRISE BRITISH TV á´¿á´¬áµ‚
+http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1920263
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| FILMRISE CLASSIC TV á´¿á´¬áµ‚" tvg-logo="http://51.158.145.100/picons/logos/USA/1920262.png" group-title="US| PRIME",PRIME| FILMRISE CLASSIC TV á´¿á´¬áµ‚
+http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1920262
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| FILMRISE FREE MOVIES á´¿á´¬áµ‚" tvg-logo="http://51.158.145.100/picons/logos/USA/1920261.png" group-title="US| PRIME",PRIME| FILMRISE FREE MOVIES á´¿á´¬áµ‚
+http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1920261
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| FILMRISE TRUE CRIME á´¿á´¬áµ‚" tvg-logo="http://51.158.145.100/picons/logos/USA/1920260.png" group-title="US| PRIME",PRIME| FILMRISE TRUE CRIME á´¿á´¬áµ‚
+http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1920260
+#EXTINF:-1 tvg-id="" tvg-name="PRIME| FILMRISE WESTERNS á´¿á´¬áµ‚" tvg-logo="http://51.158.145.100/picons/logos/USA/1920259.png" group-title="US| PRIME",PRIME| FILMRISE WESTERNS á´¿á´¬áµ‚
+http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1920259
 
 
 
 
 
 
-
-
-
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="AR| MBC 2" tvg-logo="http://picons.cmshulk.com/picons/7746.png" group-title="AR| MBC/ROTANA",AR| MBC 2
+http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/7746
+#EXTINF:-1 tvg-id="MBCActionEn.sa" tvg-name="AR| MBC ACTION" tvg-logo="http://picons.cmshulk.com/picons/7743.png" group-title="AR| MBC/ROTANA",AR| MBC ACTION
+http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/7743
+#EXTINF:-1 tvg-id="" tvg-name="AR| MBC VARIETY PLUS FHD" tvg-logo="http://picons.cmshulk.com/picons/529523.png" group-title="AR| MBC/ROTANA",AR| MBC VARIETY PLUS FHD
+http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/529523
 
 
 
