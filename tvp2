@@ -1383,6 +1383,9 @@ http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1919445
 #EXTINF:-1 tvg-id="" tvg-name="V+| GALAXY PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/logos/1919444.png" group-title="Nextwave" group-1title="ID| VISION+",V+| GALAXY PREMIUM
 http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1919444
 
+#EXTINF:-1 tvg-id="" tvg-name="US| 24/7 JAMES BOND" tvg-logo="http://103.176.90.95/images/558789.png" group-title="Nextwave",US| 24/7 JAMES BOND
+http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/558789
+
 
 
 group-title="Nextwave" group-1title="WORLD CUP 2026",AFG| ATN
