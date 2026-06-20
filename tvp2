@@ -1386,6 +1386,16 @@ http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1919444
 #EXTINF:-1 tvg-id="" tvg-name="US| 24/7 JAMES BOND" tvg-logo="http://103.176.90.95/images/558789.png" group-title="Nextwave",US| 24/7 JAMES BOND
 http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/558789
 
+#EXTINF:-1 tvg-id="" tvg-name="EN| NETFLIX SCI-FI" tvg-logo="http://103.176.90.95/images/1414078.png" group-title="UK| 24/7 MOVIES & SERIES",EN| NETFLIX SCI-FI
+http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1414078
+#EXTINF:-1 tvg-id="" tvg-name="EN| NETFLIX SCI-FI" tvg-logo="http://103.176.90.95/images/1503137.png" group-title="UK| 24/7 MOVIES & SERIES",EN| NETFLIX SCI-FI
+http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1503137
+
+#EXTINF:-1 tvg-id="" tvg-name="AR| HBO TOP TEN" tvg-logo="http://picons.cmshulk.com/picons/1275554.png" group-title="Nextwave",AR| HBO TOP TEN
+http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1275554
+
+#EXTINF:-1 tvg-id="" tvg-name="AR| HBO NOW MOVIES" tvg-logo="http://103.176.90.118/picons/logos/HBO-MAX.png" group-title="Nextwave",AR| HBO NOW MOVIES
+http://smart.tx-smart.com:80/15754758aa/66ffe53fd52b/1275553
 
 
 group-title="Nextwave" group-1title="WORLD CUP 2026",AFG| ATN
